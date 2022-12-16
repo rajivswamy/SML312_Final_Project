@@ -1,0 +1,8466 @@
+[
+    [
+        10724,
+        "Wifi"
+    ],
+    [
+        10624,
+        "Smoke alarm"
+    ],
+    [
+        10399,
+        "Kitchen"
+    ],
+    [
+        10061,
+        "Air conditioning"
+    ],
+    [
+        9935,
+        "Essentials"
+    ],
+    [
+        9036,
+        "Long term stays allowed"
+    ],
+    [
+        8812,
+        "Free parking on premises"
+    ],
+    [
+        8456,
+        "Heating"
+    ],
+    [
+        8411,
+        "Hangers"
+    ],
+    [
+        8408,
+        "Washer"
+    ],
+    [
+        8310,
+        "Hair dryer"
+    ],
+    [
+        8268,
+        "Shampoo"
+    ],
+    [
+        8236,
+        "Carbon monoxide alarm"
+    ],
+    [
+        8058,
+        "Iron"
+    ],
+    [
+        7726,
+        "Fire extinguisher"
+    ],
+    [
+        7436,
+        "Hot water"
+    ],
+    [
+        7306,
+        "Dryer"
+    ],
+    [
+        7107,
+        "Dedicated workspace"
+    ],
+    [
+        7056,
+        "TV"
+    ],
+    [
+        7020,
+        "Dishes and silverware"
+    ],
+    [
+        6997,
+        "Coffee maker"
+    ],
+    [
+        6738,
+        "Refrigerator"
+    ],
+    [
+        6672,
+        "Microwave"
+    ],
+    [
+        6660,
+        "Cooking basics"
+    ],
+    [
+        6069,
+        "Bed linens"
+    ],
+    [
+        5730,
+        "Private entrance"
+    ],
+    [
+        5586,
+        "Dishwasher"
+    ],
+    [
+        5301,
+        "Oven"
+    ],
+    [
+        5250,
+        "First aid kit"
+    ],
+    [
+        5105,
+        "Stove"
+    ],
+    [
+        4684,
+        "Free street parking"
+    ],
+    [
+        4567,
+        "Extra pillows and blankets"
+    ],
+    [
+        3757,
+        "Bathtub"
+    ],
+    [
+        3392,
+        "BBQ grill"
+    ],
+    [
+        2873,
+        "Freezer"
+    ],
+    [
+        2827,
+        "Patio or balcony"
+    ],
+    [
+        2748,
+        "Security cameras on property"
+    ],
+    [
+        2739,
+        "Ceiling fan"
+    ],
+    [
+        2692,
+        "Shower gel"
+    ],
+    [
+        2631,
+        "Pool"
+    ],
+    [
+        2560,
+        "Cleaning products"
+    ],
+    [
+        2531,
+        "Keypad"
+    ],
+    [
+        2379,
+        "Wine glasses"
+    ],
+    [
+        2352,
+        "Outdoor furniture"
+    ],
+    [
+        2335,
+        "Backyard"
+    ],
+    [
+        2277,
+        "Baking sheet"
+    ],
+    [
+        2265,
+        "Body soap"
+    ],
+    [
+        2248,
+        "Luggage dropoff allowed"
+    ],
+    [
+        2248,
+        "Conditioner"
+    ],
+    [
+        2239,
+        "Dining table"
+    ],
+    [
+        2153,
+        "Cable TV"
+    ],
+    [
+        2139,
+        "Toaster"
+    ],
+    [
+        2136,
+        "Private patio or balcony"
+    ],
+    [
+        2072,
+        "Lockbox"
+    ],
+    [
+        2044,
+        "Gym"
+    ],
+    [
+        2001,
+        "TV with standard cable"
+    ],
+    [
+        1926,
+        "Indoor fireplace"
+    ],
+    [
+        1913,
+        "Room-darkening shades"
+    ],
+    [
+        1897,
+        "Single level home"
+    ],
+    [
+        1705,
+        "Outdoor dining area"
+    ],
+    [
+        1608,
+        "Hot water kettle"
+    ],
+    [
+        1403,
+        "Central heating"
+    ],
+    [
+        1309,
+        "Smart lock"
+    ],
+    [
+        1287,
+        "Private fenced garden or backyard"
+    ],
+    [
+        1272,
+        "Elevator"
+    ],
+    [
+        1240,
+        "Ethernet connection"
+    ],
+    [
+        1211,
+        "Lock on bedroom door"
+    ],
+    [
+        1187,
+        "Barbecue utensils"
+    ],
+    [
+        1157,
+        "Fire pit"
+    ],
+    [
+        1093,
+        "Pack \\u2019n play/Travel crib"
+    ],
+    [
+        1026,
+        "Free dryer \\u2013 In unit"
+    ],
+    [
+        902,
+        "Breakfast"
+    ],
+    [
+        831,
+        "Board games"
+    ],
+    [
+        822,
+        "Laundromat nearby"
+    ],
+    [
+        744,
+        "Keurig coffee machine"
+    ],
+    [
+        720,
+        "Clothing storage"
+    ],
+    [
+        715,
+        "Central air conditioning"
+    ],
+    [
+        681,
+        "Shared pool"
+    ],
+    [
+        681,
+        "Portable fans"
+    ],
+    [
+        655,
+        "Stainless steel oven"
+    ],
+    [
+        620,
+        "Free washer \\u2013 In unit"
+    ],
+    [
+        608,
+        "Clothing storage: closet"
+    ],
+    [
+        560,
+        "Paid parking on premises"
+    ],
+    [
+        541,
+        "Children\\u2019s books and toys"
+    ],
+    [
+        516,
+        "Lake access"
+    ],
+    [
+        505,
+        "Crib"
+    ],
+    [
+        491,
+        "High chair"
+    ],
+    [
+        485,
+        "Drying rack for clothing"
+    ],
+    [
+        479,
+        "Hot tub"
+    ],
+    [
+        477,
+        "EV charger"
+    ],
+    [
+        457,
+        "Host greets you"
+    ],
+    [
+        452,
+        "Children\\u2019s dinnerware"
+    ],
+    [
+        439,
+        "Mini fridge"
+    ],
+    [
+        351,
+        "Cleaning before checkout"
+    ],
+    [
+        349,
+        "Rice maker"
+    ],
+    [
+        339,
+        "Netflix"
+    ],
+    [
+        332,
+        "Babysitter recommendations"
+    ],
+    [
+        327,
+        "Safe"
+    ],
+    [
+        297,
+        "Shared patio or balcony"
+    ],
+    [
+        293,
+        "Outlet covers"
+    ],
+    [
+        265,
+        "Gas stove"
+    ],
+    [
+        261,
+        "Private hot tub"
+    ],
+    [
+        259,
+        "Game console"
+    ],
+    [
+        248,
+        "Building staff"
+    ],
+    [
+        246,
+        "Clothing storage: walk-in closet"
+    ],
+    [
+        240,
+        "Bedroom comforts"
+    ],
+    [
+        240,
+        "Bathroom essentials"
+    ],
+    [
+        239,
+        "Private pool"
+    ],
+    [
+        234,
+        "Record player"
+    ],
+    [
+        230,
+        "Pour-over coffee"
+    ],
+    [
+        228,
+        "Sound system"
+    ],
+    [
+        221,
+        "Fireplace guards"
+    ],
+    [
+        220,
+        "Paid parking off premises"
+    ],
+    [
+        219,
+        "Private garden or backyard"
+    ],
+    [
+        216,
+        "Trash compactor"
+    ],
+    [
+        201,
+        "Self check-in"
+    ],
+    [
+        200,
+        "Roku"
+    ],
+    [
+        198,
+        "Electric stove"
+    ],
+    [
+        194,
+        "Waterfront"
+    ],
+    [
+        193,
+        "Full kitchen"
+    ],
+    [
+        188,
+        "Clothing storage: closet and dresser"
+    ],
+    [
+        181,
+        "HBO Max"
+    ],
+    [
+        179,
+        "Beach essentials"
+    ],
+    [
+        175,
+        "Bidet"
+    ],
+    [
+        173,
+        "Baby safety gates"
+    ],
+    [
+        168,
+        "Baby bath"
+    ],
+    [
+        166,
+        "Pool table"
+    ],
+    [
+        163,
+        "Shared outdoor pool"
+    ],
+    [
+        161,
+        "Clothing storage: dresser and closet"
+    ],
+    [
+        161,
+        "Changing table"
+    ],
+    [
+        160,
+        "Nespresso machine"
+    ],
+    [
+        159,
+        "Piano"
+    ],
+    [
+        157,
+        "Shared fenced garden or backyard"
+    ],
+    [
+        147,
+        "Stainless steel gas stove"
+    ],
+    [
+        147,
+        "Clothing storage: dresser"
+    ],
+    [
+        139,
+        "Pocket wifi"
+    ],
+    [
+        136,
+        "Bikes"
+    ],
+    [
+        129,
+        "Apple TV"
+    ],
+    [
+        128,
+        "and dresser"
+    ],
+    [
+        125,
+        "Stainless steel stove"
+    ],
+    [
+        122,
+        "Free dryer \\u2013 In building"
+    ],
+    [
+        120,
+        "closet"
+    ],
+    [
+        117,
+        "Shared hot tub"
+    ],
+    [
+        115,
+        "walk-in closet"
+    ],
+    [
+        115,
+        "Shared garden or backyard"
+    ],
+    [
+        115,
+        "Baby monitor"
+    ],
+    [
+        114,
+        "Ping pong table"
+    ],
+    [
+        111,
+        "and closet"
+    ],
+    [
+        109,
+        "standard cable"
+    ],
+    [
+        109,
+        "Free driveway parking on premises \\u2013 2 spaces"
+    ],
+    [
+        102,
+        "Free driveway parking on premises"
+    ],
+    [
+        102,
+        "Dedicated workspace: table"
+    ],
+    [
+        102,
+        "Bluetooth sound system"
+    ],
+    [
+        101,
+        "Shared gym in building"
+    ],
+    [
+        100,
+        "Amazon Prime Video"
+    ],
+    [
+        98,
+        "Portable heater"
+    ],
+    [
+        95,
+        "Kayak"
+    ],
+    [
+        94,
+        "dresser"
+    ],
+    [
+        94,
+        "Outdoor shower"
+    ],
+    [
+        93,
+        "Free washer \\u2013 In building"
+    ],
+    [
+        90,
+        "Dedicated workspace: desk"
+    ],
+    [
+        89,
+        "Stainless steel electric stove"
+    ],
+    [
+        89,
+        "Free dryer"
+    ],
+    [
+        88,
+        "Clothing storage: closet and walk-in closet"
+    ],
+    [
+        87,
+        "Dedicated workspace: desk and office chair"
+    ],
+    [
+        86,
+        "Window guards"
+    ],
+    [
+        83,
+        "Clothing storage: walk-in closet and closet"
+    ],
+    [
+        80,
+        "Free driveway parking on premises \\u2013 1 space"
+    ],
+    [
+        78,
+        "Dove body soap"
+    ],
+    [
+        78,
+        "Dedicated workspace:"
+    ],
+    [
+        74,
+        "Mosquito net"
+    ],
+    [
+        68,
+        "Bread maker"
+    ],
+    [
+        67,
+        "and walk-in closet"
+    ],
+    [
+        67,
+        "Dedicated workspace: monitor"
+    ],
+    [
+        67,
+        "Clothing storage: wardrobe"
+    ],
+    [
+        66,
+        "HDTV with Amazon Prime Video"
+    ],
+    [
+        66,
+        "Children\\u2019s books and toys for ages 0-2 years old"
+    ],
+    [
+        61,
+        "Paid dryer \\u2013 In building"
+    ],
+    [
+        60,
+        "Pets allowed"
+    ],
+    [
+        60,
+        "HDTV with Roku"
+    ],
+    [
+        60,
+        "Chromecast"
+    ],
+    [
+        58,
+        "Samsung refrigerator"
+    ],
+    [
+        57,
+        "Dedicated workspace: office chair and desk"
+    ],
+    [
+        56,
+        "Private outdoor pool"
+    ],
+    [
+        56,
+        "Paid washer \\u2013 In building"
+    ],
+    [
+        55,
+        "office chair"
+    ],
+    [
+        54,
+        "Dryer \\u2013\\u00a0In unit"
+    ],
+    [
+        53,
+        "premium cable"
+    ],
+    [
+        53,
+        "Window AC unit"
+    ],
+    [
+        52,
+        "Free washer"
+    ],
+    [
+        51,
+        "HDTV"
+    ],
+    [
+        49,
+        "65\\ HDTV with Amazon Prime Video"
+    ],
+    [
+        49,
+        "2-5 years old"
+    ],
+    [
+        47,
+        "Sonos Bluetooth sound system"
+    ],
+    [
+        46,
+        "HDTV with Netflix"
+    ],
+    [
+        45,
+        "desk"
+    ],
+    [
+        43,
+        "Sound system with Bluetooth and aux"
+    ],
+    [
+        42,
+        "Washer \\u2013\\u00a0In unit"
+    ],
+    [
+        41,
+        "and office chair"
+    ],
+    [
+        41,
+        "and desk"
+    ],
+    [
+        41,
+        "Private gym in building"
+    ],
+    [
+        41,
+        "Paid parking garage on premises"
+    ],
+    [
+        40,
+        "and 10+ years old"
+    ],
+    [
+        40,
+        "Whirlpool refrigerator"
+    ],
+    [
+        40,
+        "5-10 years old"
+    ],
+    [
+        39,
+        "GE refrigerator"
+    ],
+    [
+        38,
+        "Clothing storage: walk-in closet and dresser"
+    ],
+    [
+        37,
+        "TV with Roku"
+    ],
+    [
+        37,
+        "Paid street parking off premises"
+    ],
+    [
+        36,
+        "table"
+    ],
+    [
+        36,
+        "Children\\u2019s books and toys for ages 2-5 years old"
+    ],
+    [
+        35,
+        "Shared gym nearby"
+    ],
+    [
+        35,
+        "Dedicated workspace: office chair"
+    ],
+    [
+        34,
+        "wardrobe"
+    ],
+    [
+        34,
+        "Children\\u2019s books and toys for ages 0-2 years old and 2-5 years old"
+    ],
+    [
+        32,
+        "Pantene conditioner"
+    ],
+    [
+        31,
+        "LG refrigerator"
+    ],
+    [
+        30,
+        "TV with Netflix"
+    ],
+    [
+        30,
+        "Dove conditioner"
+    ],
+    [
+        30,
+        "Clothing storage: dresser and walk-in closet"
+    ],
+    [
+        30,
+        "55\\ HDTV with Amazon Prime Video"
+    ],
+    [
+        28,
+        "Table corner guards"
+    ],
+    [
+        28,
+        "TV with Amazon Prime Video"
+    ],
+    [
+        28,
+        "Samsung stainless steel oven"
+    ],
+    [
+        28,
+        "Game console: PS4"
+    ],
+    [
+        27,
+        "and table"
+    ],
+    [
+        27,
+        "and 5-10 years old"
+    ],
+    [
+        27,
+        "Pantene shampoo"
+    ],
+    [
+        26,
+        "Free driveway parking on premises \\u2013 4 spaces"
+    ],
+    [
+        25,
+        "Whirlpool stainless steel oven"
+    ],
+    [
+        25,
+        "Free carport on premises"
+    ],
+    [
+        24,
+        "TV with Chromecast"
+    ],
+    [
+        24,
+        "Dove shampoo"
+    ],
+    [
+        23,
+        "monitor"
+    ],
+    [
+        23,
+        "Sonos sound system"
+    ],
+    [
+        23,
+        "GE stainless steel oven"
+    ],
+    [
+        23,
+        "Free parking garage on premises"
+    ],
+    [
+        21,
+        "and monitor"
+    ],
+    [
+        21,
+        "Children\\u2019s books and toys for ages 2-5 years old and 5-10 years old"
+    ],
+    [
+        21,
+        "50\\ HDTV"
+    ],
+    [
+        20,
+        "Free driveway parking on premises \\u2013 3 spaces"
+    ],
+    [
+        20,
+        "Dryer \\u2013 In building"
+    ],
+    [
+        20,
+        "Clothing storage: wardrobe and closet"
+    ],
+    [
+        20,
+        "55\\ HDTV"
+    ],
+    [
+        19,
+        "and wardrobe"
+    ],
+    [
+        19,
+        "Game console: Xbox One"
+    ],
+    [
+        18,
+        "Washer \\u2013\\u00a0In building"
+    ],
+    [
+        18,
+        "Private outdoor heated pool"
+    ],
+    [
+        18,
+        "Free parking on premises \\u2013 1 space"
+    ],
+    [
+        18,
+        "Free carport on premises \\u2013 2 spaces"
+    ],
+    [
+        18,
+        "Free carport on premises \\u2013 1 space"
+    ],
+    [
+        18,
+        "Boat slip"
+    ],
+    [
+        18,
+        "55\\ HDTV with Netflix"
+    ],
+    [
+        18,
+        "50\\ HDTV with Netflix"
+    ],
+    [
+        17,
+        "Shared outdoor lap pool"
+    ],
+    [
+        17,
+        "Portable air conditioning"
+    ],
+    [
+        16,
+        "Private sauna"
+    ],
+    [
+        16,
+        "Kitchenette"
+    ],
+    [
+        16,
+        "65\\ HDTV"
+    ],
+    [
+        16,
+        "43\\ HDTV with Roku"
+    ],
+    [
+        15,
+        "Shared outdoor rooftop pool"
+    ],
+    [
+        15,
+        "Samsung stainless steel gas stove"
+    ],
+    [
+        15,
+        "Paid parking lot on premises"
+    ],
+    [
+        15,
+        "Laptop-friendly workspace"
+    ],
+    [
+        15,
+        "Free parking garage on premises \\u2013 1 space"
+    ],
+    [
+        14,
+        "Various conditioner"
+    ],
+    [
+        14,
+        "Sound system with aux"
+    ],
+    [
+        14,
+        "Paid parking garage off premises"
+    ],
+    [
+        14,
+        "Ironing board"
+    ],
+    [
+        14,
+        "Induction stove"
+    ],
+    [
+        14,
+        "GE stainless steel gas stove"
+    ],
+    [
+        14,
+        "Frigidaire refrigerator"
+    ],
+    [
+        14,
+        "Clothing storage: wardrobe and dresser"
+    ],
+    [
+        13,
+        "Suitable for events"
+    ],
+    [
+        13,
+        "HDTV with HBO Max"
+    ],
+    [
+        13,
+        "Game console: Nintendo Switch"
+    ],
+    [
+        13,
+        "Formal dining area"
+    ],
+    [
+        13,
+        "65\\ HDTV with Netflix"
+    ],
+    [
+        13,
+        "60\\ HDTV with Amazon Prime Video"
+    ],
+    [
+        13,
+        "55\\ HDTV with Roku"
+    ],
+    [
+        12,
+        "Public Goods shampoo"
+    ],
+    [
+        12,
+        "HDTV with standard cable"
+    ],
+    [
+        12,
+        "HDTV with Chromecast"
+    ],
+    [
+        12,
+        "HDTV with Apple TV"
+    ],
+    [
+        12,
+        "Beachfront"
+    ],
+    [
+        12,
+        "50\\ HDTV with Amazon Prime Video"
+    ],
+    [
+        11,
+        "Various body soap"
+    ],
+    [
+        11,
+        "Suave conditioner"
+    ],
+    [
+        11,
+        "Shared gym"
+    ],
+    [
+        11,
+        "Samsung Bluetooth sound system"
+    ],
+    [
+        11,
+        "Gas fireplace"
+    ],
+    [
+        11,
+        "Free residential garage on premises"
+    ],
+    [
+        11,
+        "Fenced garden or backyard"
+    ],
+    [
+        11,
+        "Clothing storage: dresser and wardrobe"
+    ],
+    [
+        11,
+        "Breakfast bar"
+    ],
+    [
+        11,
+        "Bose Bluetooth sound system"
+    ],
+    [
+        10,
+        "Whirlpool  refrigerator"
+    ],
+    [
+        10,
+        "Sauna"
+    ],
+    [
+        10,
+        "Samsung  refrigerator"
+    ],
+    [
+        10,
+        "Paid parking garage on premises \\u2013 1 space"
+    ],
+    [
+        10,
+        "Natural gas barbeque"
+    ],
+    [
+        10,
+        "GE oven"
+    ],
+    [
+        10,
+        "Free residential garage on premises \\u2013 2 spaces"
+    ],
+    [
+        10,
+        "Free residential garage on premises \\u2013 1 space"
+    ],
+    [
+        10,
+        "Free parking garage on premises \\u2013 2 spaces"
+    ],
+    [
+        10,
+        "Dedicated workspace: desk and table"
+    ],
+    [
+        9,
+        "Whirlpool stainless steel gas stove"
+    ],
+    [
+        9,
+        "Whirlpool stainless steel electric stove"
+    ],
+    [
+        9,
+        "TV with"
+    ],
+    [
+        9,
+        "Sun loungers"
+    ],
+    [
+        9,
+        "Radiant heating"
+    ],
+    [
+        9,
+        "Office"
+    ],
+    [
+        9,
+        "OTC conditioner"
+    ],
+    [
+        9,
+        "Kirkland body soap"
+    ],
+    [
+        9,
+        "Gym in building"
+    ],
+    [
+        9,
+        "65\\ HDTV with Roku"
+    ],
+    [
+        9,
+        "43\\ HDTV with Amazon Prime Video"
+    ],
+    [
+        9,
+        "42\\ HDTV with Amazon Prime Video"
+    ],
+    [
+        8,
+        "Various shampoo"
+    ],
+    [
+        8,
+        "Suave shampoo"
+    ],
+    [
+        8,
+        "Private gym"
+    ],
+    [
+        8,
+        "Paid valet parking on premises"
+    ],
+    [
+        8,
+        "Paid parking lot off premises"
+    ],
+    [
+        8,
+        "Outdoor seating"
+    ],
+    [
+        8,
+        "OTC body soap"
+    ],
+    [
+        8,
+        "LG stainless steel oven"
+    ],
+    [
+        8,
+        "Frigidaire stainless steel oven"
+    ],
+    [
+        8,
+        "Free driveway parking on premises \\u2013 6 spaces"
+    ],
+    [
+        8,
+        "Free driveway parking on premises \\u2013 5 spaces"
+    ],
+    [
+        8,
+        "Clothing storage: closet and wardrobe"
+    ],
+    [
+        8,
+        "Aveda conditioner"
+    ],
+    [
+        8,
+        "70\\ HDTV with Amazon Prime Video"
+    ],
+    [
+        7,
+        "Whirlpool  stainless steel oven"
+    ],
+    [
+        7,
+        "Public Goods conditioner"
+    ],
+    [
+        7,
+        "Public Goods body soap"
+    ],
+    [
+        7,
+        "Parking"
+    ],
+    [
+        7,
+        "Olay body soap"
+    ],
+    [
+        7,
+        "Kirkland conditioner"
+    ],
+    [
+        7,
+        "Kenmore refrigerator"
+    ],
+    [
+        7,
+        "HDTV with"
+    ],
+    [
+        7,
+        "GE electric stove"
+    ],
+    [
+        7,
+        "Free parking on premises \\u2013 2 spaces"
+    ],
+    [
+        7,
+        "Driveway parking"
+    ],
+    [
+        7,
+        "Dove  body soap"
+    ],
+    [
+        7,
+        "Dove"
+    ],
+    [
+        7,
+        "Dedicated workspace: office chair and table"
+    ],
+    [
+        7,
+        "Bosch refrigerator"
+    ],
+    [
+        7,
+        "75\\ HDTV with Amazon Prime Video"
+    ],
+    [
+        6,
+        "Whirlpool oven"
+    ],
+    [
+        6,
+        "Varies conditioner"
+    ],
+    [
+        6,
+        "Tresemme shampoo"
+    ],
+    [
+        6,
+        "Trader Joe\\u2019s conditioner"
+    ],
+    [
+        6,
+        "Trader Joe\\u2019s body soap"
+    ],
+    [
+        6,
+        "TV with premium cable"
+    ],
+    [
+        6,
+        "Sub Zero refrigerator"
+    ],
+    [
+        6,
+        "Sonos sound system with Bluetooth and aux"
+    ],
+    [
+        6,
+        "Smart TV"
+    ],
+    [
+        6,
+        "Outdoor pool"
+    ],
+    [
+        6,
+        "Outdoor kitchen"
+    ],
+    [
+        6,
+        "Kirkland shampoo"
+    ],
+    [
+        6,
+        "Google Home Bluetooth sound system"
+    ],
+    [
+        6,
+        "Game console: PS3"
+    ],
+    [
+        6,
+        "Game console: Nintendo Wii"
+    ],
+    [
+        6,
+        "Dr. Bronners body soap"
+    ],
+    [
+        6,
+        "Bosch stainless steel oven"
+    ],
+    [
+        6,
+        "Aveeno body soap"
+    ],
+    [
+        6,
+        "Aveda shampoo"
+    ],
+    [
+        6,
+        "55\\ HDTV with Apple TV"
+    ],
+    [
+        6,
+        "32\\ HDTV"
+    ],
+    [
+        6,
+        ""
+    ],
+    [
+        5,
+        "Viking stainless steel gas stove"
+    ],
+    [
+        5,
+        "Thermador stainless steel gas stove"
+    ],
+    [
+        5,
+        "TV with HBO Max"
+    ],
+    [
+        5,
+        "TV with Apple TV"
+    ],
+    [
+        5,
+        "Suave body soap"
+    ],
+    [
+        5,
+        "Suave"
+    ],
+    [
+        5,
+        "Ski-in/Ski-out"
+    ],
+    [
+        5,
+        "Shared outdoor heated pool"
+    ],
+    [
+        5,
+        "Shared outdoor heated lap pool"
+    ],
+    [
+        5,
+        "Pool toys"
+    ],
+    [
+        5,
+        "LG stainless steel gas stove"
+    ],
+    [
+        5,
+        "Ivory body soap"
+    ],
+    [
+        5,
+        "Gas oven"
+    ],
+    [
+        5,
+        "Game console: Xbox 360"
+    ],
+    [
+        5,
+        "Game console: PS2"
+    ],
+    [
+        5,
+        "Game console: Nintendo Switch and PS4"
+    ],
+    [
+        5,
+        "Dial body soap"
+    ],
+    [
+        5,
+        "Dedicated workspace: monitor and desk"
+    ],
+    [
+        5,
+        "Children\\u2019s books and toys for ages 5-10 years old and 10+ years old"
+    ],
+    [
+        5,
+        "Children\\u2019s books and toys for ages 5-10 years old"
+    ],
+    [
+        5,
+        "70\\ HDTV with Netflix"
+    ],
+    [
+        5,
+        "65\\ HDTV with standard cable"
+    ],
+    [
+        5,
+        "55\\ TV with Roku"
+    ],
+    [
+        5,
+        "55\\ HDTV with HBO Max"
+    ],
+    [
+        5,
+        "48\\ HDTV"
+    ],
+    [
+        5,
+        "43\\ HDTV"
+    ],
+    [
+        5,
+        "42\\ HDTV"
+    ],
+    [
+        5,
+        "40\\ HDTV with Amazon Prime Video"
+    ],
+    [
+        4,
+        "varies conditioner"
+    ],
+    [
+        4,
+        "dove conditioner"
+    ],
+    [
+        4,
+        "dove body soap"
+    ],
+    [
+        4,
+        "ZeroDerm fragrance free shampoo"
+    ],
+    [
+        4,
+        "ZeroDerm fragrance free body soap"
+    ],
+    [
+        4,
+        "Viking refrigerator"
+    ],
+    [
+        4,
+        "Thermador refrigerator"
+    ],
+    [
+        4,
+        "Sony sound system with Bluetooth and aux"
+    ],
+    [
+        4,
+        "Sonos  Bluetooth sound system"
+    ],
+    [
+        4,
+        "Shared sauna"
+    ],
+    [
+        4,
+        "Satellite TV"
+    ],
+    [
+        4,
+        "Samsung stainless steel electric stove"
+    ],
+    [
+        4,
+        "Private outdoor saltwater pool"
+    ],
+    [
+        4,
+        "Private outdoor heated saltwater pool"
+    ],
+    [
+        4,
+        "Private gym nearby"
+    ],
+    [
+        4,
+        "Pantene  conditioner"
+    ],
+    [
+        4,
+        "Paid washer \\u2013 In unit"
+    ],
+    [
+        4,
+        "Paid dryer \\u2013 In unit"
+    ],
+    [
+        4,
+        "OTC shampoo"
+    ],
+    [
+        4,
+        "Media room"
+    ],
+    [
+        4,
+        "Maytag stainless steel oven"
+    ],
+    [
+        4,
+        "Maytag stainless steel gas stove"
+    ],
+    [
+        4,
+        "KitchenAid refrigerator"
+    ],
+    [
+        4,
+        "Kitchen Aid stainless steel oven"
+    ],
+    [
+        4,
+        "Ice machine"
+    ],
+    [
+        4,
+        "HDTV with premium cable"
+    ],
+    [
+        4,
+        "Garden"
+    ],
+    [
+        4,
+        "GE stainless steel stove"
+    ],
+    [
+        4,
+        "Frigidaire stainless steel gas stove"
+    ],
+    [
+        4,
+        "Fast wifi \\u2013 75 Mbps"
+    ],
+    [
+        4,
+        "Fast wifi \\u2013 505 Mbps"
+    ],
+    [
+        4,
+        "Everyone body soap"
+    ],
+    [
+        4,
+        "Dr Bronners body soap"
+    ],
+    [
+        4,
+        "Dining area"
+    ],
+    [
+        4,
+        "Dedicated workspace: table and desk"
+    ],
+    [
+        4,
+        "Ceiling fans"
+    ],
+    [
+        4,
+        "Bosch stainless steel gas stove"
+    ],
+    [
+        4,
+        "Alexa sound system"
+    ],
+    [
+        4,
+        "Alexa Bluetooth sound system"
+    ],
+    [
+        4,
+        "75\\ HDTV"
+    ],
+    [
+        4,
+        "70\\ HDTV"
+    ],
+    [
+        4,
+        "65\\ HDTV with premium cable"
+    ],
+    [
+        4,
+        "60\\ HDTV with Netflix"
+    ],
+    [
+        4,
+        "55\\ TV"
+    ],
+    [
+        4,
+        "55\\ HDTV with standard cable"
+    ],
+    [
+        4,
+        "52\\ HDTV with Amazon Prime Video"
+    ],
+    [
+        4,
+        "50\\ HDTV with Chromecast"
+    ],
+    [
+        4,
+        "42\\ TV with Netflix"
+    ],
+    [
+        4,
+        "32\\ HDTV with Amazon Prime Video"
+    ],
+    [
+        3,
+        "whirlpool stainless steel oven"
+    ],
+    [
+        3,
+        "whirlpool stainless steel gas stove"
+    ],
+    [
+        3,
+        "whirlpool refrigerator"
+    ],
+    [
+        3,
+        "varies"
+    ],
+    [
+        3,
+        "sonos sound system"
+    ],
+    [
+        3,
+        "samsung refrigerator"
+    ],
+    [
+        3,
+        "dove shampoo"
+    ],
+    [
+        3,
+        "cruelty-free"
+    ],
+    [
+        3,
+        "Yamaha Bluetooth sound system"
+    ],
+    [
+        3,
+        "Wolf stainless steel oven"
+    ],
+    [
+        3,
+        "Whirpool refrigerator"
+    ],
+    [
+        3,
+        "Whirlpool electric stove"
+    ],
+    [
+        3,
+        "Whirlpool  stainless steel gas stove"
+    ],
+    [
+        3,
+        "Whirlpool  oven"
+    ],
+    [
+        3,
+        "Whirlpool  gas stove"
+    ],
+    [
+        3,
+        "We use different brands like Meyers"
+    ],
+    [
+        3,
+        "Viking stainless steel oven"
+    ],
+    [
+        3,
+        "Tresemme conditioner"
+    ],
+    [
+        3,
+        "Terrace"
+    ],
+    [
+        3,
+        "TRESemme shampoo"
+    ],
+    [
+        3,
+        "TRESemme conditioner"
+    ],
+    [
+        3,
+        "Shared outdoor infinity rooftop pool"
+    ],
+    [
+        3,
+        "Security cameras"
+    ],
+    [
+        3,
+        "SONOS Bluetooth sound system"
+    ],
+    [
+        3,
+        "Pantene  shampoo"
+    ],
+    [
+        3,
+        "Paid valet parking on premises \\u2013 1 space"
+    ],
+    [
+        3,
+        "Paid parking lot on premises \\u2013 2 spaces"
+    ],
+    [
+        3,
+        "Paid parking lot on premises \\u2013 1 space"
+    ],
+    [
+        3,
+        "Outdoor parking"
+    ],
+    [
+        3,
+        "Outdoor heated pool"
+    ],
+    [
+        3,
+        "KitchenAid stainless steel oven"
+    ],
+    [
+        3,
+        "Kirkland  shampoo"
+    ],
+    [
+        3,
+        "Kirkland  conditioner"
+    ],
+    [
+        3,
+        "Kirkland  body soap"
+    ],
+    [
+        3,
+        "JBL Bluetooth sound system"
+    ],
+    [
+        3,
+        "Irish Spring body soap"
+    ],
+    [
+        3,
+        "Hammock"
+    ],
+    [
+        3,
+        "Google home Bluetooth sound system"
+    ],
+    [
+        3,
+        "Gluten-free"
+    ],
+    [
+        3,
+        "General Electric stainless steel oven"
+    ],
+    [
+        3,
+        "Garden or backyard"
+    ],
+    [
+        3,
+        "Garage parking"
+    ],
+    [
+        3,
+        "Game room"
+    ],
+    [
+        3,
+        "Game console: Xbox Series X"
+    ],
+    [
+        3,
+        "Frigidaire  refrigerator"
+    ],
+    [
+        3,
+        "Free parking garage on premises \\u2013 3 spaces"
+    ],
+    [
+        3,
+        "Free driveway parking on premises \\u2013 8 spaces"
+    ],
+    [
+        3,
+        "Fast wifi \\u2013 78 Mbps"
+    ],
+    [
+        3,
+        "Fast wifi \\u2013 65 Mbps"
+    ],
+    [
+        3,
+        "Fast wifi \\u2013 56 Mbps"
+    ],
+    [
+        3,
+        "Fast wifi \\u2013 54 Mbps"
+    ],
+    [
+        3,
+        "Fast wifi \\u2013 52 Mbps"
+    ],
+    [
+        3,
+        "Fast wifi \\u2013 448 Mbps"
+    ],
+    [
+        3,
+        "Fast wifi \\u2013 420 Mbps"
+    ],
+    [
+        3,
+        "Fast wifi \\u2013 229 Mbps"
+    ],
+    [
+        3,
+        "Exercise equipment"
+    ],
+    [
+        3,
+        "Espresso machine"
+    ],
+    [
+        3,
+        "Dock"
+    ],
+    [
+        3,
+        "Decorative fireplace"
+    ],
+    [
+        3,
+        "DOVE body soap"
+    ],
+    [
+        3,
+        "Convection Oven stainless steel oven"
+    ],
+    [
+        3,
+        "Casa Esmeralda only provides vegan"
+    ],
+    [
+        3,
+        "Caress body soap"
+    ],
+    [
+        3,
+        "Bose sound system with Bluetooth and aux"
+    ],
+    [
+        3,
+        "Aveda body soap"
+    ],
+    [
+        3,
+        "75\\ HDTV with Netflix"
+    ],
+    [
+        3,
+        "65\\ HDTV with HBO Max"
+    ],
+    [
+        3,
+        "65\\ HDTV with Chromecast"
+    ],
+    [
+        3,
+        "65\\ HDTV with Apple TV"
+    ],
+    [
+        3,
+        "60\\ TV"
+    ],
+    [
+        3,
+        "55\\ TV with Netflix"
+    ],
+    [
+        3,
+        "55\\ HDTV with Chromecast"
+    ],
+    [
+        3,
+        "50\\ HDTV with Roku"
+    ],
+    [
+        3,
+        "50\\ HDTV with HBO Max"
+    ],
+    [
+        3,
+        "42\\ TV with Roku"
+    ],
+    [
+        3,
+        "42\\ HDTV with Netflix"
+    ],
+    [
+        3,
+        "40\\ TV with Netflix"
+    ],
+    [
+        3,
+        "40\\ TV"
+    ],
+    [
+        3,
+        "40\\ HDTV with standard cable"
+    ],
+    [
+        3,
+        "40\\ HDTV with Roku"
+    ],
+    [
+        3,
+        "32\\ HDTV with standard cable"
+    ],
+    [
+        3,
+        "3 in 1 conditioner"
+    ],
+    [
+        3,
+        "3 in 1 body soap"
+    ],
+    [
+        2,
+        "whirlpool stove"
+    ],
+    [
+        2,
+        "varies shampoo"
+    ],
+    [
+        2,
+        "varies body soap"
+    ],
+    [
+        2,
+        "varies  conditioner"
+    ],
+    [
+        2,
+        "tresemme shampoo"
+    ],
+    [
+        2,
+        "tresemme conditioner"
+    ],
+    [
+        2,
+        "toaster oven oven"
+    ],
+    [
+        2,
+        "suave shampoo"
+    ],
+    [
+        2,
+        "suave conditioner"
+    ],
+    [
+        2,
+        "shampoos"
+    ],
+    [
+        2,
+        "no phosphates"
+    ],
+    [
+        2,
+        "lotions"
+    ],
+    [
+        2,
+        "generic shampoo"
+    ],
+    [
+        2,
+        "generic conditioner"
+    ],
+    [
+        2,
+        "etc. conditioner"
+    ],
+    [
+        2,
+        "conditioners"
+    ],
+    [
+        2,
+        "body wash"
+    ],
+    [
+        2,
+        "bar body soap"
+    ],
+    [
+        2,
+        "and PS4"
+    ],
+    [
+        2,
+        "Yamaha sound system with Bluetooth and aux"
+    ],
+    [
+        2,
+        "Wood-burning fireplace"
+    ],
+    [
+        2,
+        "Wolf stainless steel gas stove"
+    ],
+    [
+        2,
+        "Wolf oven"
+    ],
+    [
+        2,
+        "Wine cooler"
+    ],
+    [
+        2,
+        "Wifi \\u2013 49 Mbps"
+    ],
+    [
+        2,
+        "Wifi \\u2013 44 Mbps"
+    ],
+    [
+        2,
+        "Wifi \\u2013 43 Mbps"
+    ],
+    [
+        2,
+        "Wifi \\u2013 42 Mbps"
+    ],
+    [
+        2,
+        "Wifi \\u2013 41 Mbps"
+    ],
+    [
+        2,
+        "Wifi \\u2013 35 Mbps"
+    ],
+    [
+        2,
+        "Wifi \\u2013 31 Mbps"
+    ],
+    [
+        2,
+        "Whirlpool gas stove"
+    ],
+    [
+        2,
+        "Whirlpool  stove"
+    ],
+    [
+        2,
+        "Whirlpool  electric stove"
+    ],
+    [
+        2,
+        "Wet bar"
+    ],
+    [
+        2,
+        "Varies shampoo"
+    ],
+    [
+        2,
+        "Varies body soap"
+    ],
+    [
+        2,
+        "VO5 conditioner"
+    ],
+    [
+        2,
+        "Tresseme shampoo"
+    ],
+    [
+        2,
+        "Tresemme"
+    ],
+    [
+        2,
+        "Trader Joe\\u2019s shampoo"
+    ],
+    [
+        2,
+        "Trader Joe\\u2019s  body soap"
+    ],
+    [
+        2,
+        "Trader Joe's body soap"
+    ],
+    [
+        2,
+        "TRESemm\\u00e9 shampoo"
+    ],
+    [
+        2,
+        "TRESemm\\u00e9"
+    ],
+    [
+        2,
+        "Sub-Zero refrigerator"
+    ],
+    [
+        2,
+        "Suave  shampoo"
+    ],
+    [
+        2,
+        "Stainless steel induction stove"
+    ],
+    [
+        2,
+        "Stainless Steel  refrigerator"
+    ],
+    [
+        2,
+        "Soundbar Bluetooth sound system"
+    ],
+    [
+        2,
+        "Sony  Bluetooth sound system"
+    ],
+    [
+        2,
+        "Soap body soap"
+    ],
+    [
+        2,
+        "Smoking allowed"
+    ],
+    [
+        2,
+        "Smeg refrigerator"
+    ],
+    [
+        2,
+        "Smartly body soap"
+    ],
+    [
+        2,
+        "Shared outdoor olympic-sized pool"
+    ],
+    [
+        2,
+        "Shared outdoor olympic-sized lap pool"
+    ],
+    [
+        2,
+        "Samsung stainless steel stove"
+    ],
+    [
+        2,
+        "Samsung oven"
+    ],
+    [
+        2,
+        "Samsung electric stove"
+    ],
+    [
+        2,
+        "Samsung  stainless steel oven"
+    ],
+    [
+        2,
+        "Samsung  stainless steel gas stove"
+    ],
+    [
+        2,
+        "Public goods shampoo"
+    ],
+    [
+        2,
+        "Private indoor pool"
+    ],
+    [
+        2,
+        "Popular Brand refrigerator"
+    ],
+    [
+        2,
+        "Pool cover"
+    ],
+    [
+        2,
+        "Polk sound system with Bluetooth and aux"
+    ],
+    [
+        2,
+        "Panteen Pro V shampoo"
+    ],
+    [
+        2,
+        "Panteen Pro V conditioner"
+    ],
+    [
+        2,
+        "Paid washer"
+    ],
+    [
+        2,
+        "Paid parking lot on premises \\u2013 3 spaces"
+    ],
+    [
+        2,
+        "Paid dryer"
+    ],
+    [
+        2,
+        "PS3"
+    ],
+    [
+        2,
+        "Organic shampoo"
+    ],
+    [
+        2,
+        "Organic conditioner"
+    ],
+    [
+        2,
+        "Oil of Olay body soap"
+    ],
+    [
+        2,
+        "Oil of Olay  body soap"
+    ],
+    [
+        2,
+        "OGX conditioner"
+    ],
+    [
+        2,
+        "Nest Audio Bluetooth sound system"
+    ],
+    [
+        2,
+        "Native body soap"
+    ],
+    [
+        2,
+        "Mini fridge refrigerator"
+    ],
+    [
+        2,
+        "Method body soap"
+    ],
+    [
+        2,
+        "Maytag refrigerator"
+    ],
+    [
+        2,
+        "Malin+Goetz shampoo"
+    ],
+    [
+        2,
+        "Malin+Goetz conditioner"
+    ],
+    [
+        2,
+        "Malin+Goetz body soap"
+    ],
+    [
+        2,
+        "Loreal conditioner"
+    ],
+    [
+        2,
+        "Liquid Basics shampoo"
+    ],
+    [
+        2,
+        "Liquid Basics conditioner"
+    ],
+    [
+        2,
+        "Liquid Basics body soap"
+    ],
+    [
+        2,
+        "LG Bluetooth sound system"
+    ],
+    [
+        2,
+        "Kitchen Aid stainless steel gas stove"
+    ],
+    [
+        2,
+        "Kitchen Aid refrigerator"
+    ],
+    [
+        2,
+        "Kitchen Aid oven"
+    ],
+    [
+        2,
+        "Kirkwood shampoo"
+    ],
+    [
+        2,
+        "Kirkwood body soap"
+    ],
+    [
+        2,
+        "Kenmore stainless steel oven"
+    ],
+    [
+        2,
+        "Kenmore stainless steel gas stove"
+    ],
+    [
+        2,
+        "Kenmore oven"
+    ],
+    [
+        2,
+        "Jenn Air stainless steel oven"
+    ],
+    [
+        2,
+        "Jason's Organic body soap"
+    ],
+    [
+        2,
+        "Ivory"
+    ],
+    [
+        2,
+        "House brand refrigerator"
+    ],
+    [
+        2,
+        "House brand oven"
+    ],
+    [
+        2,
+        "House brand electric stove"
+    ],
+    [
+        2,
+        "House brand conditioner"
+    ],
+    [
+        2,
+        "House brand body soap"
+    ],
+    [
+        2,
+        "Herbal Essence  shampoo"
+    ],
+    [
+        2,
+        "Head and shoulders shampoo"
+    ],
+    [
+        2,
+        "Google Bluetooth sound system"
+    ],
+    [
+        2,
+        "Ginger Lily Farms Aloe Vera - no sulfates"
+    ],
+    [
+        2,
+        "Generic shampoo"
+    ],
+    [
+        2,
+        "Generic conditioner"
+    ],
+    [
+        2,
+        "Generic body soap"
+    ],
+    [
+        2,
+        "General Electric stainless steel gas stove"
+    ],
+    [
+        2,
+        "General Electric refrigerator"
+    ],
+    [
+        2,
+        "Ge stainless steel oven"
+    ],
+    [
+        2,
+        "Gated property"
+    ],
+    [
+        2,
+        "Gas stainless steel stove"
+    ],
+    [
+        2,
+        "Garnier Fructis or Tresseme shampoo"
+    ],
+    [
+        2,
+        "Garnier"
+    ],
+    [
+        2,
+        "Game console: PS5"
+    ],
+    [
+        2,
+        "Game console: Nintendo Switch and Xbox One"
+    ],
+    [
+        2,
+        "Galanz refrigerator"
+    ],
+    [
+        2,
+        "GE stove"
+    ],
+    [
+        2,
+        "Frigidaire stainless steel electric stove"
+    ],
+    [
+        2,
+        "Frigidaire gas stove"
+    ],
+    [
+        2,
+        "Free residential garage on premises \\u2013 4 spaces"
+    ],
+    [
+        2,
+        "Free parking on premises \\u2013 5 spaces"
+    ],
+    [
+        2,
+        "Free carport on premises \\u2013 5 spaces"
+    ],
+    [
+        2,
+        "Free carport on premises \\u2013 3 spaces"
+    ],
+    [
+        2,
+        "Foosball table"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 99 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 95 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 91 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 85 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 84 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 67 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 61 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 58 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 55 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 51 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 436 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 422 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 417 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 375 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 370 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 363 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 325 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 311 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 309 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 275 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 274 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 265 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 251 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 247 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 222 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 221 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 206 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 192 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 139 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 116 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 114 Mbps"
+    ],
+    [
+        2,
+        "Fast wifi \\u2013 100 Mbps"
+    ],
+    [
+        2,
+        "Everyone shampoo"
+    ],
+    [
+        2,
+        "Dr. Bronner's body soap"
+    ],
+    [
+        2,
+        "Dove body wash body soap"
+    ],
+    [
+        2,
+        "Dove Products body soap"
+    ],
+    [
+        2,
+        "Dial or Dove body soap"
+    ],
+    [
+        2,
+        "Dedicated workspace: table and office chair"
+    ],
+    [
+        2,
+        "Dedicated workspace: desk and monitor"
+    ],
+    [
+        2,
+        "Costco conditioner"
+    ],
+    [
+        2,
+        "Costco body soap"
+    ],
+    [
+        2,
+        "Breville toaster oven oven"
+    ],
+    [
+        2,
+        "Bosch stainless steel stove"
+    ],
+    [
+        2,
+        "Bluetooth Speaker Bluetooth sound system"
+    ],
+    [
+        2,
+        "Bertazzoni stainless steel oven"
+    ],
+    [
+        2,
+        "Beekman 1802 shampoo"
+    ],
+    [
+        2,
+        "Beekman 1802 conditioner"
+    ],
+    [
+        2,
+        "Basketball court"
+    ],
+    [
+        2,
+        "BOSE sound system"
+    ],
+    [
+        2,
+        "Aveno body soap"
+    ],
+    [
+        2,
+        "Alaffia shampoo"
+    ],
+    [
+        2,
+        "Alaffia conditioner"
+    ],
+    [
+        2,
+        "Alaffia body soap"
+    ],
+    [
+        2,
+        "Air hockey table"
+    ],
+    [
+        2,
+        "Aesop conditioner"
+    ],
+    [
+        2,
+        "Aesop body soap"
+    ],
+    [
+        2,
+        "72\\ HDTV with Netflix"
+    ],
+    [
+        2,
+        "70\\ HDTV with standard cable"
+    ],
+    [
+        2,
+        "70\\ HDTV with Roku"
+    ],
+    [
+        2,
+        "70\\ HDTV with Chromecast"
+    ],
+    [
+        2,
+        "65\\ TV with Roku"
+    ],
+    [
+        2,
+        "65\\ TV"
+    ],
+    [
+        2,
+        "62\\ HDTV with Amazon Prime Video"
+    ],
+    [
+        2,
+        "60\\ HDTV with"
+    ],
+    [
+        2,
+        "58\\ HDTV with Amazon Prime Video"
+    ],
+    [
+        2,
+        "55\\ HDTV with premium cable"
+    ],
+    [
+        2,
+        "52\\ HDTV with Chromecast"
+    ],
+    [
+        2,
+        "50\\ HDTV with standard cable"
+    ],
+    [
+        2,
+        "50\\ HDTV with premium cable"
+    ],
+    [
+        2,
+        "50\\ HDTV with"
+    ],
+    [
+        2,
+        "49\\ HDTV with Amazon Prime Video"
+    ],
+    [
+        2,
+        "48\\ HDTV with Apple TV"
+    ],
+    [
+        2,
+        "46\\ HDTV with Netflix"
+    ],
+    [
+        2,
+        "43\\ HDTV with Netflix"
+    ],
+    [
+        2,
+        "42\\ TV with standard cable"
+    ],
+    [
+        2,
+        "42\\ TV with Apple TV"
+    ],
+    [
+        2,
+        "42\\ HDTV with Roku"
+    ],
+    [
+        2,
+        "42\\ HDTV with Apple TV"
+    ],
+    [
+        2,
+        "40\\ HDTV with Netflix"
+    ],
+    [
+        2,
+        "40\\ HDTV with Chromecast"
+    ],
+    [
+        2,
+        "36\\ TV with Netflix"
+    ],
+    [
+        2,
+        "32\\ TV with Apple TV"
+    ],
+    [
+        2,
+        "32\\ HDTV with Roku"
+    ],
+    [
+        2,
+        "32\\ HDTV with Netflix"
+    ],
+    [
+        2,
+        "32\\ HDTV with HBO Max"
+    ],
+    [
+        2,
+        "3 in 1 shampoo"
+    ],
+    [
+        2,
+        "2 Refriderators refrigerator"
+    ],
+    [
+        1,
+        "with pancake skittle stainless steel oven"
+    ],
+    [
+        1,
+        "wirpool stainless steel oven"
+    ],
+    [
+        1,
+        "whirpool refrigerator"
+    ],
+    [
+        1,
+        "whirlpool stainless steel refrigerator"
+    ],
+    [
+        1,
+        "whirlpool gas stove"
+    ],
+    [
+        1,
+        "whirlpool  refrigerator"
+    ],
+    [
+        1,
+        "water make too refrigerator"
+    ],
+    [
+        1,
+        "vizio sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "vitamins"
+    ],
+    [
+        1,
+        "various soaps body soap"
+    ],
+    [
+        1,
+        "various conditoners conditioner"
+    ],
+    [
+        1,
+        "variety of shampoos shampoo"
+    ],
+    [
+        1,
+        "variety of hair conditioner conditioner"
+    ],
+    [
+        1,
+        "variety of bath soaps body soap"
+    ],
+    [
+        1,
+        "varies  body soap"
+    ],
+    [
+        1,
+        "varied body soap"
+    ],
+    [
+        1,
+        "vaires conditioner"
+    ],
+    [
+        1,
+        "usually have more than one type body soap"
+    ],
+    [
+        1,
+        "usually Dove"
+    ],
+    [
+        1,
+        "trusty German brand.... just adjust the temperature to turn on oven"
+    ],
+    [
+        1,
+        "travel soap body soap"
+    ],
+    [
+        1,
+        "toasts and broils oven"
+    ],
+    [
+        1,
+        "this plant-based shampoo is safe for daily use by all hair & skin types. Made in Austin"
+    ],
+    [
+        1,
+        "sustainable and environmentally responsible products.  Actual branding may vary. shampoo"
+    ],
+    [
+        1,
+        "sustainable and environmentally responsible products.  Actual branding may vary. conditioner"
+    ],
+    [
+        1,
+        "sustainable and environmentally responsible products.  Actual branding may vary. body soap"
+    ],
+    [
+        1,
+        "surround  sound system"
+    ],
+    [
+        1,
+        "suave body soap"
+    ],
+    [
+        1,
+        "sound will radiate and reflect around the room"
+    ],
+    [
+        1,
+        "sony sound system with aux"
+    ],
+    [
+        1,
+        "sony downstairs  Bluetooth sound system"
+    ],
+    [
+        1,
+        "sonos sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "sonos Bluetooth sound system"
+    ],
+    [
+        1,
+        "smart bluetooth TV"
+    ],
+    [
+        1,
+        "small frog with small freezer refrigerator"
+    ],
+    [
+        1,
+        "small bottle of shampoo and conditioner provided conditioner"
+    ],
+    [
+        1,
+        "single induction burner induction stove"
+    ],
+    [
+        1,
+        "shampoo for all hair types shampoo"
+    ],
+    [
+        1,
+        "shampoo and makeup wipes  body soap"
+    ],
+    [
+        1,
+        "samsung stainless steel oven"
+    ],
+    [
+        1,
+        "rechargable bluetooth speaker Bluetooth sound system"
+    ],
+    [
+        1,
+        "q-tips"
+    ],
+    [
+        1,
+        "plant-based cleansers provide a rich"
+    ],
+    [
+        1,
+        "paraben-free body soap"
+    ],
+    [
+        1,
+        "pantene conditioner"
+    ],
+    [
+        1,
+        "otc shampoo"
+    ],
+    [
+        1,
+        "organic bar soap. body soap"
+    ],
+    [
+        1,
+        "organic bar soap provided. body soap"
+    ],
+    [
+        1,
+        "one travel bottle of Aveda shampoo and conditioner will be left for our guests.  shampoo"
+    ],
+    [
+        1,
+        "one burner- works great induction stove"
+    ],
+    [
+        1,
+        "olay"
+    ],
+    [
+        1,
+        "not sure conditioner"
+    ],
+    [
+        1,
+        "not full size oven"
+    ],
+    [
+        1,
+        "no parabens shampoo"
+    ],
+    [
+        1,
+        "no parabens conditioner"
+    ],
+    [
+        1,
+        "mouthwash"
+    ],
+    [
+        1,
+        "mini-fridge refrigerator"
+    ],
+    [
+        1,
+        "mini fridge refrigerator"
+    ],
+    [
+        1,
+        "lg refrigerator"
+    ],
+    [
+        1,
+        "lg oven"
+    ],
+    [
+        1,
+        "large toaster oven oven"
+    ],
+    [
+        1,
+        "kitchenaide stainless steel oven"
+    ],
+    [
+        1,
+        "kitchenaid refrigerator"
+    ],
+    [
+        1,
+        "kirkland body soap"
+    ],
+    [
+        1,
+        "iphone compatible sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "ingredients displayed on all soaps provided shampoo"
+    ],
+    [
+        1,
+        "ingredients displayed on all soaps provided conditioner"
+    ],
+    [
+        1,
+        "ingredients displayed on all soaps provided body soap"
+    ],
+    [
+        1,
+        "individually wrapped Eco  body soap"
+    ],
+    [
+        1,
+        "immersing you in that same feeling you felt at your favorite concert. Bluetooth sound system"
+    ],
+    [
+        1,
+        "hypoallergenic"
+    ],
+    [
+        1,
+        "hydrating"
+    ],
+    [
+        1,
+        "hotel small bottle conditioner"
+    ],
+    [
+        1,
+        "high quality products.  body soap"
+    ],
+    [
+        1,
+        "glass top stainless steel electric stove"
+    ],
+    [
+        1,
+        "glass cooktop electric stove"
+    ],
+    [
+        1,
+        "generic body soap"
+    ],
+    [
+        1,
+        "gel soap and bar of dove soap body soap"
+    ],
+    [
+        1,
+        "gas refrigerator"
+    ],
+    [
+        1,
+        "gas  stainless steel oven"
+    ],
+    [
+        1,
+        "full-sized LG refrigerator"
+    ],
+    [
+        1,
+        "full sized range and oven stove"
+    ],
+    [
+        1,
+        "full fridge with freezer on top refrigerator"
+    ],
+    [
+        1,
+        "full cable Bluetooth sound system"
+    ],
+    [
+        1,
+        "frigig  glass cook top stove"
+    ],
+    [
+        1,
+        "french milled soaps"
+    ],
+    [
+        1,
+        "etc. shampoo"
+    ],
+    [
+        1,
+        "etc.  body soap"
+    ],
+    [
+        1,
+        "downdraft"
+    ],
+    [
+        1,
+        "dial body soap"
+    ],
+    [
+        1,
+        "definitive technology Bluetooth sound system"
+    ],
+    [
+        1,
+        "cruelty-free & paraben-free Eco Botanics. shampoo"
+    ],
+    [
+        1,
+        "cruelty-free & paraben-free Eco Botanics. conditioner"
+    ],
+    [
+        1,
+        "cruelty-free & paraben-free Eco Botanics. body soap"
+    ],
+    [
+        1,
+        "countertop convection  stainless steel oven"
+    ],
+    [
+        1,
+        "cotton balls"
+    ],
+    [
+        1,
+        "cooktop stainless steel gas stove"
+    ],
+    [
+        1,
+        "convection oven"
+    ],
+    [
+        1,
+        "clear soap body soap"
+    ],
+    [
+        1,
+        "cares and dove body soap"
+    ],
+    [
+        1,
+        "but small hotel size bars of soap are also available body soap"
+    ],
+    [
+        1,
+        "bose sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "bookshelf  sound system"
+    ],
+    [
+        1,
+        "bar soap body soap"
+    ],
+    [
+        1,
+        "anker Bluetooth sound system"
+    ],
+    [
+        1,
+        "and other essentials. body soap"
+    ],
+    [
+        1,
+        "and never any bad stuff. Made in Austin"
+    ],
+    [
+        1,
+        "always different conditioner"
+    ],
+    [
+        1,
+        "alexa sound system"
+    ],
+    [
+        1,
+        "\\Everyone\\ Conditioner conditioner"
+    ],
+    [
+        1,
+        "\\Everyone\\ Bodywash body soap"
+    ],
+    [
+        1,
+        "Zest body soap"
+    ],
+    [
+        1,
+        "Yoga studio"
+    ],
+    [
+        1,
+        "Yamaha 5.1 Dolby Digital sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Yamaha - Surround sound throughout house sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Y2K Bluetooth sound system"
+    ],
+    [
+        1,
+        "X conditioner"
+    ],
+    [
+        1,
+        "X body soap"
+    ],
+    [
+        1,
+        "Wonderboom Bluetooth sound system"
+    ],
+    [
+        1,
+        "Wolf stove"
+    ],
+    [
+        1,
+        "Wolf stainless steel stove"
+    ],
+    [
+        1,
+        "Wolf gas stove"
+    ],
+    [
+        1,
+        "Wolf commercial stove and griddle top that is not an automatic lighter.  Must use a match. gas stove"
+    ],
+    [
+        1,
+        "Wolf Cooktop stainless steel oven"
+    ],
+    [
+        1,
+        "Wolf Cooktop gas stove"
+    ],
+    [
+        1,
+        "Wirlpool stainless steel gas stove"
+    ],
+    [
+        1,
+        "Wirlpool refrigerator"
+    ],
+    [
+        1,
+        "Wireless bluetooth speaker Bluetooth sound system"
+    ],
+    [
+        1,
+        "Wifi \\u2013 40 Mbps"
+    ],
+    [
+        1,
+        "Wifi \\u2013 39 Mbps"
+    ],
+    [
+        1,
+        "Wifi \\u2013 38 Mbps"
+    ],
+    [
+        1,
+        "Wifi \\u2013 37 Mbps"
+    ],
+    [
+        1,
+        "Wifi \\u2013 30 Mbps"
+    ],
+    [
+        1,
+        "Wifi \\u2013 23 Mbps"
+    ],
+    [
+        1,
+        "Wifi \\u2013 19 Mbps"
+    ],
+    [
+        1,
+        "Wifi \\u2013 15 Mbps"
+    ],
+    [
+        1,
+        "Wifi \\u2013 11 Mbps"
+    ],
+    [
+        1,
+        "Whole Foods shampoo"
+    ],
+    [
+        1,
+        "Whole Foods conditioner"
+    ],
+    [
+        1,
+        "Whole Foods body soap"
+    ],
+    [
+        1,
+        "Whole Foods 365 shampoo"
+    ],
+    [
+        1,
+        "Whole Foods 360 - Lavender  shampoo"
+    ],
+    [
+        1,
+        "Whole Foods 360 - Lavender  conditioner"
+    ],
+    [
+        1,
+        "Whole Foods 360 - Lavender  body soap"
+    ],
+    [
+        1,
+        "White rain body soap"
+    ],
+    [
+        1,
+        "White Rain shampoo"
+    ],
+    [
+        1,
+        "White Rain conditioner"
+    ],
+    [
+        1,
+        "Whirpool stainless steel oven"
+    ],
+    [
+        1,
+        "Whirpool oven"
+    ],
+    [
+        1,
+        "Whirpool gas stove"
+    ],
+    [
+        1,
+        "Whirpool electric stove"
+    ],
+    [
+        1,
+        "Whirlpool stove"
+    ],
+    [
+        1,
+        "Whirlpool stainless steel stove"
+    ],
+    [
+        1,
+        "Whirlpool Stainless Steel refrigerator"
+    ],
+    [
+        1,
+        "Whirlpool French Door 30\\ wide refrigerator"
+    ],
+    [
+        1,
+        "Whirlpool - Built in water filter and ice maker on exterior of door refrigerator"
+    ],
+    [
+        1,
+        "Whirlpool  stainless steel electric stove"
+    ],
+    [
+        1,
+        "Whirlpool"
+    ],
+    [
+        1,
+        "We keep basic shampoo in all the baths shampoo"
+    ],
+    [
+        1,
+        "We keep basic conditioner in all the baths conditioner"
+    ],
+    [
+        1,
+        "We keep basic body wash in all the bathrooms body soap"
+    ],
+    [
+        1,
+        "We feature organic products from the Seaweed Bath Company shampoo"
+    ],
+    [
+        1,
+        "We feature organic products from the Seaweed Bath Company conditioner"
+    ],
+    [
+        1,
+        "We feature organic products from the Seaweed Bath Company body soap"
+    ],
+    [
+        1,
+        "Walmart Bluetooth sound system"
+    ],
+    [
+        1,
+        "WP stainless steel oven"
+    ],
+    [
+        1,
+        "W stainless steel oven"
+    ],
+    [
+        1,
+        "Vocopro"
+    ],
+    [
+        1,
+        "Vizio sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Vizio sound bar + 2 portable waterproof speakers  Bluetooth sound system"
+    ],
+    [
+        1,
+        "Vizio Soundbar sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Vizio Sound Bar sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Vizio Bluetooth sound system"
+    ],
+    [
+        1,
+        "Vitabath  body soap"
+    ],
+    [
+        1,
+        "Visio Bluetooth sound system"
+    ],
+    [
+        1,
+        "Viking Professional stainless steel oven"
+    ],
+    [
+        1,
+        "Viking Professional refrigerator"
+    ],
+    [
+        1,
+        "Viking Professional gas stove"
+    ],
+    [
+        1,
+        "Viking  stainless steel oven"
+    ],
+    [
+        1,
+        "Viking  refrigerator"
+    ],
+    [
+        1,
+        "Viking  gas stove"
+    ],
+    [
+        1,
+        "Video Games"
+    ],
+    [
+        1,
+        "Victrola sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Victrola record player supporting bluetooth and AUX input.  Connected to AV receiver with indoor ceiling speakers and exterior porch speakers.   sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Verona refrigerator"
+    ],
+    [
+        1,
+        "Verona oven"
+    ],
+    [
+        1,
+        "Verona gas stove"
+    ],
+    [
+        1,
+        "Vegan shampoo"
+    ],
+    [
+        1,
+        "Vegan conditioner"
+    ],
+    [
+        1,
+        "Vegan body soap"
+    ],
+    [
+        1,
+        "Vasani refrigerator"
+    ],
+    [
+        1,
+        "Various brands conditioner"
+    ],
+    [
+        1,
+        "Various body washes and bar soaps body soap"
+    ],
+    [
+        1,
+        "Various Costco Brands body soap"
+    ],
+    [
+        1,
+        "Various  conditioner"
+    ],
+    [
+        1,
+        "Various  brands and types conditioner"
+    ],
+    [
+        1,
+        "Various  body soap"
+    ],
+    [
+        1,
+        "Variety  body soap"
+    ],
+    [
+        1,
+        "Varies.  body soap"
+    ],
+    [
+        1,
+        "Varies  body soap"
+    ],
+    [
+        1,
+        "VO5 shampoo"
+    ],
+    [
+        1,
+        "V05 shampoo"
+    ],
+    [
+        1,
+        "V05 conditioner"
+    ],
+    [
+        1,
+        "Under Counter Refrigerator with small freezer refrigerator"
+    ],
+    [
+        1,
+        "UE Boom Bluetooth sound system"
+    ],
+    [
+        1,
+        "UE Bluetooth sound system"
+    ],
+    [
+        1,
+        "Two-burner hot plate electric stove"
+    ],
+    [
+        1,
+        "Two in one shampoo conditioner"
+    ],
+    [
+        1,
+        "Two  compact refrigerators  refrigerator"
+    ],
+    [
+        1,
+        "Trutech sound system with aux"
+    ],
+    [
+        1,
+        "Tresume shampoo"
+    ],
+    [
+        1,
+        "Tresume  conditioner"
+    ],
+    [
+        1,
+        "Tresseme' shampoo"
+    ],
+    [
+        1,
+        "Tresseme conditioner"
+    ],
+    [
+        1,
+        "Tresseme Shampoo  shampoo"
+    ],
+    [
+        1,
+        "Tresseme Conditioner conditioner"
+    ],
+    [
+        1,
+        "Tresseme  conditioner"
+    ],
+    [
+        1,
+        "Tresemme  conditioner"
+    ],
+    [
+        1,
+        "Treseme shampoo"
+    ],
+    [
+        1,
+        "Treseme conditioner"
+    ],
+    [
+        1,
+        "TreSemme Shampoo and Conditioner"
+    ],
+    [
+        1,
+        "TreSamme shampoo"
+    ],
+    [
+        1,
+        "TreSamme Shampoo and Conditioner conditioner"
+    ],
+    [
+        1,
+        "Travel sizes - various shampoo"
+    ],
+    [
+        1,
+        "Travel sizes - various conditioner"
+    ],
+    [
+        1,
+        "Travel sizes - various body soap"
+    ],
+    [
+        1,
+        "Travel size shampoo"
+    ],
+    [
+        1,
+        "Travel size body soap"
+    ],
+    [
+        1,
+        "Travel size  conditioner"
+    ],
+    [
+        1,
+        "Travel Well Earth Conscious bath soap body soap"
+    ],
+    [
+        1,
+        "Trader Joes Spa Essentials conditioner"
+    ],
+    [
+        1,
+        "Trader Joes Spa Essentials body soap"
+    ],
+    [
+        1,
+        "Trader Joe\\u2019s  conditioner"
+    ],
+    [
+        1,
+        "Trader Joe's Tea Tree Tingle Shampoo shampoo"
+    ],
+    [
+        1,
+        "Trader Joe's Tea Tree Tingle Conditioner with Peppermint and Eucalyptus conditioner"
+    ],
+    [
+        1,
+        "Trader Joe's 3 in 1  shampoo"
+    ],
+    [
+        1,
+        "Trader Joe's  conditioner"
+    ],
+    [
+        1,
+        "Tr\\u00e8s Aim\\u00e9  shampoo"
+    ],
+    [
+        1,
+        "Tr\\u00e8s Aim\\u00e9  conditioner"
+    ],
+    [
+        1,
+        "Top of Line LG refrigerator"
+    ],
+    [
+        1,
+        "Tom's body soap"
+    ],
+    [
+        1,
+        "Toaster oven stainless steel oven"
+    ],
+    [
+        1,
+        "Toaster Oven/Griddle oven"
+    ],
+    [
+        1,
+        "Toaster Oven and Air Fryer stainless steel oven"
+    ],
+    [
+        1,
+        "Toaster Oven"
+    ],
+    [
+        1,
+        "Thrive Market body soap"
+    ],
+    [
+        1,
+        "This is a small countertop oven. oven"
+    ],
+    [
+        1,
+        "This is a portable cooktop electric stove"
+    ],
+    [
+        1,
+        "Thermadore stainless steel gas stove"
+    ],
+    [
+        1,
+        "Thermador stainless steel oven"
+    ],
+    [
+        1,
+        "Thermador Double oven"
+    ],
+    [
+        1,
+        "Thermador  oven"
+    ],
+    [
+        1,
+        "There is an Alexa in the apartment Bluetooth sound system"
+    ],
+    [
+        1,
+        "Theorie shampoo"
+    ],
+    [
+        1,
+        "Theorie conditioner"
+    ],
+    [
+        1,
+        "Terra Pure shampoo"
+    ],
+    [
+        1,
+        "Terra Pure conditioner"
+    ],
+    [
+        1,
+        "Terra Pure body soap"
+    ],
+    [
+        1,
+        "Terra Pure Organic shampoo"
+    ],
+    [
+        1,
+        "Terra Pure Organic conditioner"
+    ],
+    [
+        1,
+        "Terra Pure Organic body soap"
+    ],
+    [
+        1,
+        "Terra Pure Organic Wild Citrus shampoo"
+    ],
+    [
+        1,
+        "Terra Pure Organic Wild Citrus conditioner"
+    ],
+    [
+        1,
+        "Terra Pure Organic Wild Citrus  body soap"
+    ],
+    [
+        1,
+        "Telescope"
+    ],
+    [
+        1,
+        "Technogas Superiore stainless steel oven"
+    ],
+    [
+        1,
+        "Technogas Superiore stainless steel gas stove"
+    ],
+    [
+        1,
+        "Tea Tree shampoo"
+    ],
+    [
+        1,
+        "Tea Tree conditioner"
+    ],
+    [
+        1,
+        "Tea Tree Shampoo shampoo"
+    ],
+    [
+        1,
+        "Tbd oven"
+    ],
+    [
+        1,
+        "Tbd gas stove"
+    ],
+    [
+        1,
+        "Target conditioner"
+    ],
+    [
+        1,
+        "TX. shampoo"
+    ],
+    [
+        1,
+        "TX. conditioner"
+    ],
+    [
+        1,
+        "TX body soap"
+    ],
+    [
+        1,
+        "TWO full size refrigerators with freezers refrigerator"
+    ],
+    [
+        1,
+        "TREsemme conditioner"
+    ],
+    [
+        1,
+        "THEORIE PURE shampoo"
+    ],
+    [
+        1,
+        "THEORIE PURE conditioner"
+    ],
+    [
+        1,
+        "THEORIE PURE body soap"
+    ],
+    [
+        1,
+        "TBD shampoo"
+    ],
+    [
+        1,
+        "TBD conditioner"
+    ],
+    [
+        1,
+        "TBD  shampoo"
+    ],
+    [
+        1,
+        "TBD  conditioner"
+    ],
+    [
+        1,
+        "Szarmach + Berg conditioner"
+    ],
+    [
+        1,
+        "Szarmach + Berg body soap"
+    ],
+    [
+        1,
+        "Surround sound in main living areas  sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Sure or comparable brand conditioner"
+    ],
+    [
+        1,
+        "Sun deck"
+    ],
+    [
+        1,
+        "Summit stainless steel oven"
+    ],
+    [
+        1,
+        "Summit stainless steel gas stove"
+    ],
+    [
+        1,
+        "Summit Drawer Fridge refrigerator"
+    ],
+    [
+        1,
+        "Subzero refrigerator"
+    ],
+    [
+        1,
+        "SubZero refrigerator"
+    ],
+    [
+        1,
+        "Sub-Zero Refrigerator in kitchen.  2nd Refrigerator in laundry room). refrigerator"
+    ],
+    [
+        1,
+        "Suave' or Tresemme shampoo"
+    ],
+    [
+        1,
+        "Suave or Tressemme' conditioner"
+    ],
+    [
+        1,
+        "Suave or Garnier Fructis  shampoo"
+    ],
+    [
+        1,
+        "Suave or Garnier Fructis  conditioner"
+    ],
+    [
+        1,
+        "Suave Shampoo shampoo"
+    ],
+    [
+        1,
+        "Suave Professionals Almond & Shea Butter shampoo"
+    ],
+    [
+        1,
+        "Suave Professionals Almond & Shea Butter conditioner"
+    ],
+    [
+        1,
+        "Suave Naturals shampoo"
+    ],
+    [
+        1,
+        "Suave Naturals conditioner"
+    ],
+    [
+        1,
+        "Suave Garnier Fructis Tresseme conditioner"
+    ],
+    [
+        1,
+        "Suave Conditioner  conditioner"
+    ],
+    [
+        1,
+        "Suave Body Wash body soap"
+    ],
+    [
+        1,
+        "Suave  conditioner"
+    ],
+    [
+        1,
+        "Stove stainless steel stove"
+    ],
+    [
+        1,
+        "Store bought shampoo"
+    ],
+    [
+        1,
+        "Store bought conditioner"
+    ],
+    [
+        1,
+        "Store bought body soap"
+    ],
+    [
+        1,
+        "Stand up paddle board"
+    ],
+    [
+        1,
+        "Stainless steel and black  stainless steel oven"
+    ],
+    [
+        1,
+        "Stainless steel  refrigerator"
+    ],
+    [
+        1,
+        "Stainless Steel refrigerator"
+    ],
+    [
+        1,
+        "Stainless Steel and Black stainless steel gas stove"
+    ],
+    [
+        1,
+        "Stainless Steel Whirlpool refrigerator"
+    ],
+    [
+        1,
+        "Stainless / Black stainless steel oven"
+    ],
+    [
+        1,
+        "St. Ives body soap"
+    ],
+    [
+        1,
+        "St. Ives Oatmeal & Shea Butter body soap"
+    ],
+    [
+        1,
+        "Speaker Bluetooth sound system"
+    ],
+    [
+        1,
+        "Spa conditioner"
+    ],
+    [
+        1,
+        "Spa body soap"
+    ],
+    [
+        1,
+        "Soundbar on TV sound system"
+    ],
+    [
+        1,
+        "Sound bar sound system with aux"
+    ],
+    [
+        1,
+        "Sound bar on TV. Jam speaker with Bluetooth. Bluetooth sound system"
+    ],
+    [
+        1,
+        "Sound bar and base Bluetooth sound system"
+    ],
+    [
+        1,
+        "Sound Table & Sound Bar Bluetooth sound system"
+    ],
+    [
+        1,
+        "Sony portable"
+    ],
+    [
+        1,
+        "Sony Sound Bar Bluetooth sound system"
+    ],
+    [
+        1,
+        "Sony Sound Bar"
+    ],
+    [
+        1,
+        "Sony Bluetooth sound system"
+    ],
+    [
+        1,
+        "Sonos throught main floor and backyard sound system with aux"
+    ],
+    [
+        1,
+        "Sonos speakers sound system"
+    ],
+    [
+        1,
+        "Sonos speaker Bluetooth sound system"
+    ],
+    [
+        1,
+        "Sonos inside and WiFi speakers on back patio. Outside noise ordinance enforced after 10 pm!! sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Sonos in living room & Portable Bluetooth speaker sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Sonos for IKEA Bluetooth sound system"
+    ],
+    [
+        1,
+        "Sonos Wireless System Bluetooth sound system"
+    ],
+    [
+        1,
+        "Sonos Wifi Speaker sound system"
+    ],
+    [
+        1,
+        "Sonos Sound Bar Bluetooth sound system"
+    ],
+    [
+        1,
+        "Sonos BT Speakers Bluetooth sound system"
+    ],
+    [
+        1,
+        "Sonos  sound system"
+    ],
+    [
+        1,
+        "Sono  Bluetooth sound system"
+    ],
+    [
+        1,
+        "Smart Commercial-Style Gas Range with Self-Cleaning and True Convection in Stainless Steel stainless steel oven"
+    ],
+    [
+        1,
+        "Small under counter fridge with top freezer compartment refrigerator"
+    ],
+    [
+        1,
+        "Small apartment size refrigerator"
+    ],
+    [
+        1,
+        "Small Sony Bluetooth speaker  Bluetooth sound system"
+    ],
+    [
+        1,
+        "Side by side refrigerator"
+    ],
+    [
+        1,
+        "Shea Moisture 100% Coconut Oil shampoo"
+    ],
+    [
+        1,
+        "Shea Moisture 100% Coconut Oil conditioner"
+    ],
+    [
+        1,
+        "Sharp Steam Oven oven"
+    ],
+    [
+        1,
+        "Shared rooftop pool"
+    ],
+    [
+        1,
+        "Shared outdoor saltwater pool"
+    ],
+    [
+        1,
+        "Shared outdoor rooftop saltwater pool"
+    ],
+    [
+        1,
+        "Shared outdoor rooftop lap pool"
+    ],
+    [
+        1,
+        "Shared outdoor heated rooftop pool"
+    ],
+    [
+        1,
+        "Shared outdoor heated olympic-sized lap pool"
+    ],
+    [
+        1,
+        "Shared outdoor heated infinity rooftop pool"
+    ],
+    [
+        1,
+        "Shared outdoor heated infinity lap pool"
+    ],
+    [
+        1,
+        "Shared indoor saltwater pool"
+    ],
+    [
+        1,
+        "Shampoo shampoo"
+    ],
+    [
+        1,
+        "Several choices conditioner"
+    ],
+    [
+        1,
+        "Sensitive skin"
+    ],
+    [
+        1,
+        "Savon Pour Le body soap"
+    ],
+    [
+        1,
+        "Sanyo sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Samsung speaker bar and subwoofer Bluetooth sound system"
+    ],
+    [
+        1,
+        "Samsung speaker Bluetooth sound system"
+    ],
+    [
+        1,
+        "Samsung soundbar Bluetooth sound system"
+    ],
+    [
+        1,
+        "Samsung sound system with aux"
+    ],
+    [
+        1,
+        "Samsung sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Samsung sound system"
+    ],
+    [
+        1,
+        "Samsung smart fridge  refrigerator"
+    ],
+    [
+        1,
+        "Samsung gas stove"
+    ],
+    [
+        1,
+        "Samsung double door bottom freezer refrigerator"
+    ],
+    [
+        1,
+        "Samsung black stainless oven"
+    ],
+    [
+        1,
+        "Samsung black stainless gas stove"
+    ],
+    [
+        1,
+        "Samsung and Onyko sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Samsung all yours Plus top shelf of freezer refrigerator"
+    ],
+    [
+        1,
+        "Samsung Stainless Steel refrigerator"
+    ],
+    [
+        1,
+        "Samsung Sound Bar Bluetooth sound system"
+    ],
+    [
+        1,
+        "Samsung Gas Range stainless steel oven"
+    ],
+    [
+        1,
+        "Samsung Gas Range stainless steel gas stove"
+    ],
+    [
+        1,
+        "Samsung 4 door Smart refrigerator  refrigerator"
+    ],
+    [
+        1,
+        "Samsung  sound system"
+    ],
+    [
+        1,
+        "Samsung  oven"
+    ],
+    [
+        1,
+        "Samsung  gas stove"
+    ],
+    [
+        1,
+        "Samsung  electric stove"
+    ],
+    [
+        1,
+        "Samsun refrigerator"
+    ],
+    [
+        1,
+        "Sample sizes conditioner"
+    ],
+    [
+        1,
+        "STainless steel refrigerator"
+    ],
+    [
+        1,
+        "STainless STeel refrigerator"
+    ],
+    [
+        1,
+        "SONOS sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "SONOS bluetooth speakers + BOSE AUX speakers sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "SMEG refrigerator"
+    ],
+    [
+        1,
+        "SAMSUNG stainless steel gas stove"
+    ],
+    [
+        1,
+        "Roku sound system"
+    ],
+    [
+        1,
+        "Roku TV Bluetooth sound system"
+    ],
+    [
+        1,
+        "Roku TV Airplay Bluetooth sound system"
+    ],
+    [
+        1,
+        "Roku Bluetooth sound system"
+    ],
+    [
+        1,
+        "Renpure shampoo"
+    ],
+    [
+        1,
+        "Renpure conditioner"
+    ],
+    [
+        1,
+        "Renpure body soap"
+    ],
+    [
+        1,
+        "Renpure  conditioner"
+    ],
+    [
+        1,
+        "Red conditioner"
+    ],
+    [
+        1,
+        "Red Flower shampoo"
+    ],
+    [
+        1,
+        "Red Flower conditioner"
+    ],
+    [
+        1,
+        "Red Flower body soap"
+    ],
+    [
+        1,
+        "Record player with bluetooth Bluetooth sound system"
+    ],
+    [
+        1,
+        "Raw Sugar shampoo"
+    ],
+    [
+        1,
+        "Raw Sugar conditioner"
+    ],
+    [
+        1,
+        "Raw Sugar  body soap"
+    ],
+    [
+        1,
+        "RSQ sound system with aux"
+    ],
+    [
+        1,
+        "REVLON 1875W Lightweight  conditioner"
+    ],
+    [
+        1,
+        "Pureology shampoo"
+    ],
+    [
+        1,
+        "Pureology Hydrate conditioner"
+    ],
+    [
+        1,
+        "Purency shampoo"
+    ],
+    [
+        1,
+        "Purency conditioner"
+    ],
+    [
+        1,
+        "Purency body soap"
+    ],
+    [
+        1,
+        "Pure conditioner"
+    ],
+    [
+        1,
+        "Pure body soap"
+    ],
+    [
+        1,
+        "Pure & Gentle shampoo"
+    ],
+    [
+        1,
+        "Pure & Gentle"
+    ],
+    [
+        1,
+        "Pure  conditioner"
+    ],
+    [
+        1,
+        "Puracy shampoo"
+    ],
+    [
+        1,
+        "Puracy conditioner"
+    ],
+    [
+        1,
+        "Puracy body soap"
+    ],
+    [
+        1,
+        "Puracy Organic body soap"
+    ],
+    [
+        1,
+        "Puracy - made in Austin! body soap"
+    ],
+    [
+        1,
+        "Puracy  body soap"
+    ],
+    [
+        1,
+        "Public goods conditioner"
+    ],
+    [
+        1,
+        "Public goods body soap"
+    ],
+    [
+        1,
+        "Public goods  conditioner"
+    ],
+    [
+        1,
+        "Public Goods body wash body soap"
+    ],
+    [
+        1,
+        "Public Goods  shampoo"
+    ],
+    [
+        1,
+        "Public Goods  conditioner"
+    ],
+    [
+        1,
+        "Prose conditioner"
+    ],
+    [
+        1,
+        "Propane barbeque"
+    ],
+    [
+        1,
+        "Private outdoor olympic-sized pool"
+    ],
+    [
+        1,
+        "Private outdoor lap pool"
+    ],
+    [
+        1,
+        "Private outdoor infinity pool"
+    ],
+    [
+        1,
+        "Private outdoor heated lap pool"
+    ],
+    [
+        1,
+        "Private heated pool"
+    ],
+    [
+        1,
+        "Premium Costco Brands conditioner"
+    ],
+    [
+        1,
+        "Portable table top oven"
+    ],
+    [
+        1,
+        "Portable speaker  Bluetooth sound system"
+    ],
+    [
+        1,
+        "Portable UE Boom and Victrola record player with eclectic small record selection  Bluetooth sound system"
+    ],
+    [
+        1,
+        "Portable Bluetooth sound system"
+    ],
+    [
+        1,
+        "Popular Brand stainless steel oven"
+    ],
+    [
+        1,
+        "Popular Brand stainless steel gas stove"
+    ],
+    [
+        1,
+        "Popular Brand shampoo"
+    ],
+    [
+        1,
+        "Popular Brand conditioner"
+    ],
+    [
+        1,
+        "Popular Brand body soap"
+    ],
+    [
+        1,
+        "Pool bar"
+    ],
+    [
+        1,
+        "Polk soundbar Sigma 2 with subwoofer sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Polk audio Bluetooth sound system"
+    ],
+    [
+        1,
+        "Polk Bluetooth sound system"
+    ],
+    [
+        1,
+        "Polk Audio Sound Bar sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Philips Bluetooth sound system"
+    ],
+    [
+        1,
+        "Pert conditioner"
+    ],
+    [
+        1,
+        "Paya Organics shampoo"
+    ],
+    [
+        1,
+        "Paya Organics conditioner"
+    ],
+    [
+        1,
+        "Paya Organics body soap"
+    ],
+    [
+        1,
+        "Paul Mitchell shampoo"
+    ],
+    [
+        1,
+        "Paul Mitchell  shampoo"
+    ],
+    [
+        1,
+        "Paul Mitchell  conditioner"
+    ],
+    [
+        1,
+        "Patio"
+    ],
+    [
+        1,
+        "Patene  shampoo"
+    ],
+    [
+        1,
+        "Pantetne shampoo"
+    ],
+    [
+        1,
+        "Pantene/variety  conditioner"
+    ],
+    [
+        1,
+        "Pantene or similar conditioner"
+    ],
+    [
+        1,
+        "Pantene on wall and variety of bottled products shampoo"
+    ],
+    [
+        1,
+        "Pantene in the wall dispenser and assorted bottled products for dandruff and Men\\u2019s hair products conditioner"
+    ],
+    [
+        1,
+        "Pantene and head and shoulders shampoo"
+    ],
+    [
+        1,
+        "Pantene and head and shoulders  conditioner"
+    ],
+    [
+        1,
+        "Pantene Shampoo shampoo"
+    ],
+    [
+        1,
+        "Pantene Pro-V shampoo"
+    ],
+    [
+        1,
+        "Pantene Pro-V conditioner"
+    ],
+    [
+        1,
+        "Pantene Pro V shampoo"
+    ],
+    [
+        1,
+        "Pantene Pro V conditioner"
+    ],
+    [
+        1,
+        "Pantene Conditioner conditioner"
+    ],
+    [
+        1,
+        "Panteen shampoo"
+    ],
+    [
+        1,
+        "Panteen conditioner"
+    ],
+    [
+        1,
+        "Panasonic sound system"
+    ],
+    [
+        1,
+        "Panasonic 4 in 1 Microwave Convection Oven - Bake"
+    ],
+    [
+        1,
+        "Palapa"
+    ],
+    [
+        1,
+        "Paid parking on premises \\u2013 1 space"
+    ],
+    [
+        1,
+        "Paid parking lot on premises \\u2013 5 spaces"
+    ],
+    [
+        1,
+        "Paid parking lot on premises \\u2013 30 spaces"
+    ],
+    [
+        1,
+        "Paid parking lot on premises \\u2013 20 spaces"
+    ],
+    [
+        1,
+        "Paid parking garage on premises \\u2013 100 spaces"
+    ],
+    [
+        1,
+        "PURACY NATURAL CONDITIONER Spins your hair into weightless silk with only gentle botanicals"
+    ],
+    [
+        1,
+        "PURACY NATURAL BODY WASH Gentle"
+    ],
+    [
+        1,
+        "Oster mini oven oven"
+    ],
+    [
+        1,
+        "Oster Turbo Convection oven"
+    ],
+    [
+        1,
+        "Orlando Pita or Dove conditioner"
+    ],
+    [
+        1,
+        "Organics shampoo"
+    ],
+    [
+        1,
+        "Organics conditioner"
+    ],
+    [
+        1,
+        "Organics body soap"
+    ],
+    [
+        1,
+        "Organic soap"
+    ],
+    [
+        1,
+        "Organic shampoo provided shampoo"
+    ],
+    [
+        1,
+        "Organic conditioner  conditioner"
+    ],
+    [
+        1,
+        "Organic body soap body soap"
+    ],
+    [
+        1,
+        "Organic body soap"
+    ],
+    [
+        1,
+        "Organic Shampoo Provided Free shampoo"
+    ],
+    [
+        1,
+        "Organic Conditioner Provided Free conditioner"
+    ],
+    [
+        1,
+        "Organic Body Soap Provided Free body soap"
+    ],
+    [
+        1,
+        "Organic  conditioner"
+    ],
+    [
+        1,
+        "Organic  body soap"
+    ],
+    [
+        1,
+        "Only one stove top (plug in) electric stove"
+    ],
+    [
+        1,
+        "Onkyo sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Onkyo Bluetooth sound system"
+    ],
+    [
+        1,
+        "Ollie & Otto Castile Soap body soap"
+    ],
+    [
+        1,
+        "Ollie & Otto All-Purpose Castile Soap body soap"
+    ],
+    [
+        1,
+        "Older"
+    ],
+    [
+        1,
+        "Old spice"
+    ],
+    [
+        1,
+        "Oil of olay body soap"
+    ],
+    [
+        1,
+        "Oil of Olay Body Wash body soap"
+    ],
+    [
+        1,
+        "Ogx shampoo"
+    ],
+    [
+        1,
+        "Ogx conditioner"
+    ],
+    [
+        1,
+        "Ogx  shampoo"
+    ],
+    [
+        1,
+        "Ogx  conditioner"
+    ],
+    [
+        1,
+        "Ocean Digital Interent Radio Bluetooth sound system"
+    ],
+    [
+        1,
+        "OTC  conditioner"
+    ],
+    [
+        1,
+        "OTC  body soap"
+    ],
+    [
+        1,
+        "OGX shampoo"
+    ],
+    [
+        1,
+        "OGX Coconut Milk shampoo"
+    ],
+    [
+        1,
+        "OGX Coconut Milk conditioner"
+    ],
+    [
+        1,
+        "Nutrisse conditioner"
+    ],
+    [
+        1,
+        "Not specific shampoo"
+    ],
+    [
+        1,
+        "Not specific conditioner"
+    ],
+    [
+        1,
+        "Not specific body soap"
+    ],
+    [
+        1,
+        "Norco  refrigerator"
+    ],
+    [
+        1,
+        "Nivea body soap"
+    ],
+    [
+        1,
+        "Ninja Foodi XL Air Oven/Fryer oven"
+    ],
+    [
+        1,
+        "Nexxus shampoo"
+    ],
+    [
+        1,
+        "Nexxus conditioner"
+    ],
+    [
+        1,
+        "New oven"
+    ],
+    [
+        1,
+        "New electric stove"
+    ],
+    [
+        1,
+        "Neutrogena shampoo"
+    ],
+    [
+        1,
+        "Neutrogena conditioner"
+    ],
+    [
+        1,
+        "Neutrogena body soap"
+    ],
+    [
+        1,
+        "Neutrogena Rainbath body soap"
+    ],
+    [
+        1,
+        "Neotrogena Rainbath body soap"
+    ],
+    [
+        1,
+        "Natural stuff  shampoo"
+    ],
+    [
+        1,
+        "Natural stuff  conditioner"
+    ],
+    [
+        1,
+        "Natural shampoo"
+    ],
+    [
+        1,
+        "Natural selection shampoo"
+    ],
+    [
+        1,
+        "Natural products  body soap"
+    ],
+    [
+        1,
+        "Natural conditioner"
+    ],
+    [
+        1,
+        "Natural and other body soap"
+    ],
+    [
+        1,
+        "Natural  body soap"
+    ],
+    [
+        1,
+        "Native shampoo"
+    ],
+    [
+        1,
+        "Native conditioner"
+    ],
+    [
+        1,
+        "Na body soap"
+    ],
+    [
+        1,
+        "NEXXUS shampoo"
+    ],
+    [
+        1,
+        "NEXXUS conditioner"
+    ],
+    [
+        1,
+        "NATURAL SHAMPOO Packed with gentle cleansers & fortified with vitamins"
+    ],
+    [
+        1,
+        "NA conditioner"
+    ],
+    [
+        1,
+        "N/A body soap"
+    ],
+    [
+        1,
+        "Myers shampoo"
+    ],
+    [
+        1,
+        "Myers conditioner"
+    ],
+    [
+        1,
+        "Myers body soap"
+    ],
+    [
+        1,
+        "Murphy bed"
+    ],
+    [
+        1,
+        "Multiple conditioner"
+    ],
+    [
+        1,
+        "Multiple Bluetooth Speakers Bluetooth sound system"
+    ],
+    [
+        1,
+        "Mrs. Meyer's body soap"
+    ],
+    [
+        1,
+        "Mrs Meyers body soap"
+    ],
+    [
+        1,
+        "Mostly natural castile soap - like Dr. Bronners body soap"
+    ],
+    [
+        1,
+        "Molton Brown starter set shampoo"
+    ],
+    [
+        1,
+        "Molton Brown starter set conditioner"
+    ],
+    [
+        1,
+        "Molton Brown starter set body soap"
+    ],
+    [
+        1,
+        "Misc shampoo"
+    ],
+    [
+        1,
+        "Misc  conditioner"
+    ],
+    [
+        1,
+        "Misc  body soap"
+    ],
+    [
+        1,
+        "Mint liquid body soap body soap"
+    ],
+    [
+        1,
+        "Mini refrigerator and separate freezer refrigerator"
+    ],
+    [
+        1,
+        "Mini fridge/freezer refrigerator"
+    ],
+    [
+        1,
+        "Mini fridge with small freezer  refrigerator"
+    ],
+    [
+        1,
+        "Mini Toaster Oven stainless steel oven"
+    ],
+    [
+        1,
+        "Mini Fridge refrigerator"
+    ],
+    [
+        1,
+        "Mini  refrigerator"
+    ],
+    [
+        1,
+        "Miele stainless steel oven"
+    ],
+    [
+        1,
+        "Miele refrigerator"
+    ],
+    [
+        1,
+        "Miele gas stove"
+    ],
+    [
+        1,
+        "Miele Combo Convection & Steam Oven and a 36\\ Capital stove w/ griddle stainless steel oven"
+    ],
+    [
+        1,
+        "Microwave oven"
+    ],
+    [
+        1,
+        "Meyer\\u2019s body soap"
+    ],
+    [
+        1,
+        "Method Men Sea + Surf 2-in-1 Shampoo and Conditioner - LOVE beauty AND planet Soothe and Nourish (hemp seed and nana leaf) shampoo"
+    ],
+    [
+        1,
+        "Method"
+    ],
+    [
+        1,
+        "Men's body wash body soap"
+    ],
+    [
+        1,
+        "Melaleuca conditioner"
+    ],
+    [
+        1,
+        "Melaleuca Eco Friendly Soaps body soap"
+    ],
+    [
+        1,
+        "Melaleuca Eco Friendly Conditioner conditioner"
+    ],
+    [
+        1,
+        "Melaleuca Bio friendly  body soap"
+    ],
+    [
+        1,
+        "McKesson Cucumber Melon body soap"
+    ],
+    [
+        1,
+        "Maytag electric stove"
+    ],
+    [
+        1,
+        "Matrix conditioner"
+    ],
+    [
+        1,
+        "Matrix Biolage shampoo"
+    ],
+    [
+        1,
+        "Matrix Biolage conditioner"
+    ],
+    [
+        1,
+        "Marula Soul shampoo"
+    ],
+    [
+        1,
+        "Marula Soul conditioner"
+    ],
+    [
+        1,
+        "Marula Soul body soap"
+    ],
+    [
+        1,
+        "Marshall sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Marshall Bluetooth sound system"
+    ],
+    [
+        1,
+        "Marianna body soap"
+    ],
+    [
+        1,
+        "Marfa body soap"
+    ],
+    [
+        1,
+        "Marantz sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Malin + Goetz shampoo"
+    ],
+    [
+        1,
+        "Malin + Goetz conditioner"
+    ],
+    [
+        1,
+        "Malin + Goetz body soap"
+    ],
+    [
+        1,
+        "Luxury toiletries of all sorts. shampoo"
+    ],
+    [
+        1,
+        "Luxury toiletries of all sorts"
+    ],
+    [
+        1,
+        "Luxury toiletries"
+    ],
+    [
+        1,
+        "Luxury built in unit  stainless steel gas stove"
+    ],
+    [
+        1,
+        "Luxury Brand body soap"
+    ],
+    [
+        1,
+        "Luxury  conditioner"
+    ],
+    [
+        1,
+        "Luxury  body soap"
+    ],
+    [
+        1,
+        "Love Beauty And Planet Hope and Repair Shampoo and Conditioner ; Tangerine + Honeysuckle head to toe Cleanser shampoo"
+    ],
+    [
+        1,
+        "Love Beauty & Planet shampoo"
+    ],
+    [
+        1,
+        "Love Beauty & Planet conditioner"
+    ],
+    [
+        1,
+        "Love Beauty & Planet body soap"
+    ],
+    [
+        1,
+        "Lounge area"
+    ],
+    [
+        1,
+        "Loreal shampoo"
+    ],
+    [
+        1,
+        "Lord & Mayfair conditioner"
+    ],
+    [
+        1,
+        "Lord & Mayfair body soap"
+    ],
+    [
+        1,
+        "Logitech sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Logitech  Bluetooth sound system"
+    ],
+    [
+        1,
+        "Local Austin Favorite shampoo"
+    ],
+    [
+        1,
+        "Local Austin Favorite conditioner"
+    ],
+    [
+        1,
+        "Local Austin Favorite body soap"
+    ],
+    [
+        1,
+        "Living proof shampoo"
+    ],
+    [
+        1,
+        "Living proof conditioner"
+    ],
+    [
+        1,
+        "Liquid body soap is typically available"
+    ],
+    [
+        1,
+        "Liquid body soap"
+    ],
+    [
+        1,
+        "Liquid  conditioner"
+    ],
+    [
+        1,
+        "Liquid  body soap"
+    ],
+    [
+        1,
+        "Liguid body soap"
+    ],
+    [
+        1,
+        "Liebherr refrigerator"
+    ],
+    [
+        1,
+        "Libratone speaker sound system"
+    ],
+    [
+        1,
+        "Lg sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Lemon & Tea Tree shampoo"
+    ],
+    [
+        1,
+        "Lemon & Tea Tree conditioner"
+    ],
+    [
+        1,
+        "Lemon & Tea Tree body soap"
+    ],
+    [
+        1,
+        "LeLabo - Bergamot  shampoo"
+    ],
+    [
+        1,
+        "LeLabo - Bergamot  conditioner"
+    ],
+    [
+        1,
+        "Le Petit Marseillais body soap"
+    ],
+    [
+        1,
+        "Laroche body soap"
+    ],
+    [
+        1,
+        "Large luxury built in unit refrigerator"
+    ],
+    [
+        1,
+        "Large container in shower.  shampoo"
+    ],
+    [
+        1,
+        "Large container in shower.  conditioner"
+    ],
+    [
+        1,
+        "Lap pool"
+    ],
+    [
+        1,
+        "Lake Life shampoo"
+    ],
+    [
+        1,
+        "Lake Life  conditioner"
+    ],
+    [
+        1,
+        "Lake Life  body soap"
+    ],
+    [
+        1,
+        "Lador  conditioner"
+    ],
+    [
+        1,
+        "L\\u2019Oreal shampoo"
+    ],
+    [
+        1,
+        "L\\u2019Oreal conditioner"
+    ],
+    [
+        1,
+        "L\\u2019Or\\u00e9al  shampoo"
+    ],
+    [
+        1,
+        "L\\u2019Or\\u00e9al  conditioner"
+    ],
+    [
+        1,
+        "LOVE beauty AND planet Soothe and Nourish  conditioner"
+    ],
+    [
+        1,
+        "LOVE beauty AND planet Bountiful Moisture (murumuru butter and rose) body soap"
+    ],
+    [
+        1,
+        "LG/Samsung stainless steel oven"
+    ],
+    [
+        1,
+        "LG/Samsung stainless steel electric stove"
+    ],
+    [
+        1,
+        "LG stainless steel stove"
+    ],
+    [
+        1,
+        "LG stainless steel electric stove"
+    ],
+    [
+        1,
+        "LG Stainless Steel ice maker"
+    ],
+    [
+        1,
+        "LG Soundbar sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "LG Sound Bar Bluetooth sound system"
+    ],
+    [
+        1,
+        "LG Double-Sided refrigerator"
+    ],
+    [
+        1,
+        "LG Atmos Surround Bluetooth sound system"
+    ],
+    [
+        1,
+        "LG / Stainless refrigerator"
+    ],
+    [
+        1,
+        "LG  refrigerator"
+    ],
+    [
+        1,
+        "L'Occitane shampoo"
+    ],
+    [
+        1,
+        "L'Occitane conditioner"
+    ],
+    [
+        1,
+        "L'Occitane body soap"
+    ],
+    [
+        1,
+        "Kristin Ess shampoo"
+    ],
+    [
+        1,
+        "Kristin Ess conditioner"
+    ],
+    [
+        1,
+        "Klipsch sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Klipsch Bluetooth sound system"
+    ],
+    [
+        1,
+        "Kitchenaid stainless steel gas stove"
+    ],
+    [
+        1,
+        "Kitchenaid refrigerator"
+    ],
+    [
+        1,
+        "Kitchenaid 30\\ 5-Burner Gas Convection Oven stainless steel oven"
+    ],
+    [
+        1,
+        "Kitchenaid - 30\\ 5 Burner Gas Stove stainless steel gas stove"
+    ],
+    [
+        1,
+        "Kitchenaid - 20 cu ft French Door Refrigerator refrigerator"
+    ],
+    [
+        1,
+        "KitchenAide stainless steel gas stove"
+    ],
+    [
+        1,
+        "KitchenAid stainless steel gas stove"
+    ],
+    [
+        1,
+        "Kitchen-Aid stainless steel oven"
+    ],
+    [
+        1,
+        "Kitchen-Aid stainless steel gas stove"
+    ],
+    [
+        1,
+        "Kitchen-Aid refrigerator"
+    ],
+    [
+        1,
+        "Kitchen aid stainless steel gas stove"
+    ],
+    [
+        1,
+        "Kitchen Aid stainless steel induction stove"
+    ],
+    [
+        1,
+        "Kitchen Aid Cooktop stainless steel gas stove"
+    ],
+    [
+        1,
+        "Kitchen Aid - gas burner"
+    ],
+    [
+        1,
+        "Kirkwood conditioner"
+    ],
+    [
+        1,
+        "Kirkland/Dove body soap"
+    ],
+    [
+        1,
+        "Kirkland body wash  body soap"
+    ],
+    [
+        1,
+        "Kiehls shampoo"
+    ],
+    [
+        1,
+        "Kiehls conditioner"
+    ],
+    [
+        1,
+        "Kiehls  body soap"
+    ],
+    [
+        1,
+        "Kiehl\\u2019s shampoo"
+    ],
+    [
+        1,
+        "Kiehl\\u2019s conditioner"
+    ],
+    [
+        1,
+        "Kiehl\\u2019s body soap"
+    ],
+    [
+        1,
+        "Kiehl\\u2019s Hair and Grooming Aid Formula 133 conditioner"
+    ],
+    [
+        1,
+        "Kiehl\\u2019s Grapefruit body soap"
+    ],
+    [
+        1,
+        "Kiehl\\u2019s Amino Acid shampoo"
+    ],
+    [
+        1,
+        "Kiehl\\u2019s - grapefruit liquid body cleanser and traditional bar soap body soap"
+    ],
+    [
+        1,
+        "Khiels grapefruit body wash body soap"
+    ],
+    [
+        1,
+        "Khiels amino acid shampoo"
+    ],
+    [
+        1,
+        "Khiels amino acid conditioner conditioner"
+    ],
+    [
+        1,
+        "Kenmore with ice-maker refrigerator"
+    ],
+    [
+        1,
+        "Kenmore w/Filtered Water refrigerator"
+    ],
+    [
+        1,
+        "Kenmore side by side with water and 2 settings of ice dispenser  refrigerator"
+    ],
+    [
+        1,
+        "Kenmore gas gas stove"
+    ],
+    [
+        1,
+        "Kenmore electric stove"
+    ],
+    [
+        1,
+        "Kenmore Elite stainless steel oven"
+    ],
+    [
+        1,
+        "Kenmore Elite stainless steel gas stove"
+    ],
+    [
+        1,
+        "Kenmore Elite refrigerator"
+    ],
+    [
+        1,
+        "Kenmore Elite"
+    ],
+    [
+        1,
+        "Kenmore  refrigerator"
+    ],
+    [
+        1,
+        "Kenmore  oven"
+    ],
+    [
+        1,
+        "Kayaks"
+    ],
+    [
+        1,
+        "Kanto Bluetooth sound system"
+    ],
+    [
+        1,
+        "JennAir stainless steel oven"
+    ],
+    [
+        1,
+        "JennAir stainless steel gas stove"
+    ],
+    [
+        1,
+        "JennAir refrigerator"
+    ],
+    [
+        1,
+        "Jenn Aire stainless steel oven"
+    ],
+    [
+        1,
+        "Jenn Air stainless steel gas stove"
+    ],
+    [
+        1,
+        "Jenn Air refrigerator"
+    ],
+    [
+        1,
+        "Jenn Air Range stainless steel gas stove"
+    ],
+    [
+        1,
+        "Jawbone sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Jason\\u2019s  body soap"
+    ],
+    [
+        1,
+        "Jason's Organic shampoo"
+    ],
+    [
+        1,
+        "Jason organic body wash body soap"
+    ],
+    [
+        1,
+        "Jason All Natural shampoo"
+    ],
+    [
+        1,
+        "Jason All Natural conditioner"
+    ],
+    [
+        1,
+        "JamBox  Bluetooth sound system"
+    ],
+    [
+        1,
+        "Jack Black"
+    ],
+    [
+        1,
+        "J\\u0100S\\u00d6N Natural Body Wash & Shower Gel body soap"
+    ],
+    [
+        1,
+        "JBL and Amazon Alexa Devices sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "JBL Flip 4 Bluetooth Speaker sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Ivory bar soap body soap"
+    ],
+    [
+        1,
+        "Ivory Liquid body soap"
+    ],
+    [
+        1,
+        "Ivory Dove Dial body soap"
+    ],
+    [
+        1,
+        "Ivory  body soap"
+    ],
+    [
+        1,
+        "Irish spring  body soap"
+    ],
+    [
+        1,
+        "Inverter Microwave  oven"
+    ],
+    [
+        1,
+        "Interior/Outdoor sound system. Pool room has a sound bar as well with Bt capabilities. Speaker by the volleyball court as well! Bluetooth sound system"
+    ],
+    [
+        1,
+        "Insignia\\u2122 freestanding (plug-in) cooktop  induction stove"
+    ],
+    [
+        1,
+        "Insignia sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Insignia Bluetooth sound system"
+    ],
+    [
+        1,
+        "Inside cabinets shampoo"
+    ],
+    [
+        1,
+        "Infinity pool"
+    ],
+    [
+        1,
+        "Ilve Italian stove stainless steel gas stove"
+    ],
+    [
+        1,
+        "Ilve Italian oven and stove stainless steel oven"
+    ],
+    [
+        1,
+        "Ikea refrigerator"
+    ],
+    [
+        1,
+        "Hydrate Shampoo and Conditioner Duo conditioner"
+    ],
+    [
+        1,
+        "House brand  shampoo"
+    ],
+    [
+        1,
+        "Hotpoint refrigerator"
+    ],
+    [
+        1,
+        "Hotpoint oven"
+    ],
+    [
+        1,
+        "Hotpoint gas stove"
+    ],
+    [
+        1,
+        "Hotpoint electric stove"
+    ],
+    [
+        1,
+        "Hotel brands shampoo"
+    ],
+    [
+        1,
+        "Hotel brands conditioner"
+    ],
+    [
+        1,
+        "Hotel brands body soap"
+    ],
+    [
+        1,
+        "Hotel Brand conditioner"
+    ],
+    [
+        1,
+        "Hotel Brand body soap"
+    ],
+    [
+        1,
+        "Hot plate stove"
+    ],
+    [
+        1,
+        "Honeywell conditioner"
+    ],
+    [
+        1,
+        "Home pod sound system"
+    ],
+    [
+        1,
+        "Hisense refrigerator"
+    ],
+    [
+        1,
+        "Hill Country Lavender shampoo"
+    ],
+    [
+        1,
+        "Hill Country Lavender conditioner"
+    ],
+    [
+        1,
+        "High quality  conditioner"
+    ],
+    [
+        1,
+        "High Quality stainless steel electric stove"
+    ],
+    [
+        1,
+        "High Quality refrigerator"
+    ],
+    [
+        1,
+        "Herbal Essenece  conditioner"
+    ],
+    [
+        1,
+        "Herbal Essences shampoo"
+    ],
+    [
+        1,
+        "Herbal Essence shampoo"
+    ],
+    [
+        1,
+        "Herbal Essence conditioner"
+    ],
+    [
+        1,
+        "Herbal Essence  conditioner"
+    ],
+    [
+        1,
+        "Heat lamps"
+    ],
+    [
+        1,
+        "Heads and Shoulders body soap"
+    ],
+    [
+        1,
+        "Head and Shoulders shampoo"
+    ],
+    [
+        1,
+        "Head & Shoulders shampoo"
+    ],
+    [
+        1,
+        "Has a filtered water and ice dispensor.  refrigerator"
+    ],
+    [
+        1,
+        "Harmon/Kardon  Bluetooth sound system"
+    ],
+    [
+        1,
+        "Harmon-Kardon sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Harmon Kardon Bluetooth sound system"
+    ],
+    [
+        1,
+        "Harman Kardon Bluetooth sound system"
+    ],
+    [
+        1,
+        "Hamilton  Beach Combo Toaster Oven/Air Fryer oven"
+    ],
+    [
+        1,
+        "Gym nearby"
+    ],
+    [
+        1,
+        "Guild+Pepper shampoo"
+    ],
+    [
+        1,
+        "Guild+Pepper conditioner"
+    ],
+    [
+        1,
+        "Guild + Pepper body soap"
+    ],
+    [
+        1,
+        "Google speaker sound system"
+    ],
+    [
+        1,
+        "Google sound system"
+    ],
+    [
+        1,
+        "Google Nest & VIZIO Surround System Bluetooth sound system"
+    ],
+    [
+        1,
+        "Google Max sound system"
+    ],
+    [
+        1,
+        "Google Home and Pathfinder Bluetooth sound system"
+    ],
+    [
+        1,
+        "Google  sound system"
+    ],
+    [
+        1,
+        "Google  Bluetooth sound system"
+    ],
+    [
+        1,
+        "Good stuff conditioner"
+    ],
+    [
+        1,
+        "Good refrigerator"
+    ],
+    [
+        1,
+        "Good Stuff body soap"
+    ],
+    [
+        1,
+        "Good & Gather body soap"
+    ],
+    [
+        1,
+        "Ginger Lily Farms shampoo"
+    ],
+    [
+        1,
+        "Ginger Lily Farms conditioner"
+    ],
+    [
+        1,
+        "Generic \\Fresh & Clean\\  body soap"
+    ],
+    [
+        1,
+        "Generic Brands shampoo"
+    ],
+    [
+        1,
+        "Generic Brands conditioner"
+    ],
+    [
+        1,
+        "Generic Brands body soap"
+    ],
+    [
+        1,
+        "General Electric stainless steel electric stove"
+    ],
+    [
+        1,
+        "General Electric  stainless steel stove"
+    ],
+    [
+        1,
+        "General Electric  stainless steel oven"
+    ],
+    [
+        1,
+        "General Electric  refrigerator"
+    ],
+    [
+        1,
+        "Ge Cafe Series induction stove"
+    ],
+    [
+        1,
+        "Gazebo"
+    ],
+    [
+        1,
+        "Gas range stainless steel stove"
+    ],
+    [
+        1,
+        "Gas oven stainless steel oven"
+    ],
+    [
+        1,
+        "Gas Top stainless steel stove"
+    ],
+    [
+        1,
+        "Gas Top stainless steel oven"
+    ],
+    [
+        1,
+        "Gas Stove stainless steel oven"
+    ],
+    [
+        1,
+        "Gas Stove  oven"
+    ],
+    [
+        1,
+        "Gas Rainge stove"
+    ],
+    [
+        1,
+        "Gas Cooktop and Oven stainless steel oven"
+    ],
+    [
+        1,
+        "Gas  stainless steel oven"
+    ],
+    [
+        1,
+        "Gas"
+    ],
+    [
+        1,
+        "Garnier shampoo"
+    ],
+    [
+        1,
+        "Garnier Fructis shampoo"
+    ],
+    [
+        1,
+        "Garnier Fructis or Tresseme conditioner"
+    ],
+    [
+        1,
+        "Garnier Fructis conditioner"
+    ],
+    [
+        1,
+        "Garnier Fructis and OGX shampoo"
+    ],
+    [
+        1,
+        "Garnier Fructis and OGX conditioner"
+    ],
+    [
+        1,
+        "Garnier Fructis  shampoo"
+    ],
+    [
+        1,
+        "Garnier  - Whole Blends / Moroccan Argan Camellia Oils shampoo"
+    ],
+    [
+        1,
+        "Game console: PS4 and Xbox One"
+    ],
+    [
+        1,
+        "Game console: PS4 and PS5"
+    ],
+    [
+        1,
+        "Game console: Nintendo Wii and Xbox One"
+    ],
+    [
+        1,
+        "Game console: Nintendo Wii and PS3"
+    ],
+    [
+        1,
+        "Game console: Nintendo Switch and Xbox 360"
+    ],
+    [
+        1,
+        "Game console: Nintendo Switch and PS5"
+    ],
+    [
+        1,
+        "Game console: Nintendo Switch and Nintendo Wii U"
+    ],
+    [
+        1,
+        "Galanz Retro Refrigerator  refrigerator"
+    ],
+    [
+        1,
+        "Galanz 3.1 cu. ft. Mini Fridge with Dual Door True Freezer in Black refrigerator"
+    ],
+    [
+        1,
+        "GE\\u00ae stainless steel refrigerator refrigerator"
+    ],
+    [
+        1,
+        "GE stainless steel electric stove"
+    ],
+    [
+        1,
+        "GE gas stove"
+    ],
+    [
+        1,
+        "GE black stainless refrigerator"
+    ],
+    [
+        1,
+        "GE black stainless oven"
+    ],
+    [
+        1,
+        "GE black electric stove"
+    ],
+    [
+        1,
+        "GE Profile stainless steel oven"
+    ],
+    [
+        1,
+        "GE Monogram stainless steel oven"
+    ],
+    [
+        1,
+        "GE Cafe Series oven"
+    ],
+    [
+        1,
+        "GE (brand new) refrigerator"
+    ],
+    [
+        1,
+        "GE  stainless steel oven"
+    ],
+    [
+        1,
+        "GE  stainless steel gas stove"
+    ],
+    [
+        1,
+        "GE  oven"
+    ],
+    [
+        1,
+        "GE  gas stove"
+    ],
+    [
+        1,
+        "GAS STOVE ANDOVEN stainless steel electric stove"
+    ],
+    [
+        1,
+        "Full size stove stainless steel stove"
+    ],
+    [
+        1,
+        "Full size side-by-side fridge with freezer. refrigerator"
+    ],
+    [
+        1,
+        "Full size refrigerator/freezer with ice maker.  refrigerator"
+    ],
+    [
+        1,
+        "Full size refrigerator refrigerator"
+    ],
+    [
+        1,
+        "Full size electric stove with oven. oven"
+    ],
+    [
+        1,
+        "Full size Love Beauty and Planet sulfate-free shampoo and conditioner shampoo"
+    ],
+    [
+        1,
+        "Full size GE refrigerator"
+    ],
+    [
+        1,
+        "Full size 5 burner Glass top electric  stainless steel electric stove"
+    ],
+    [
+        1,
+        "Full oven"
+    ],
+    [
+        1,
+        "Full electric range and oven oven"
+    ],
+    [
+        1,
+        "Full Size Refrigerator w/ top Freezer refrigerator"
+    ],
+    [
+        1,
+        "Full Samsung in main house; Cuisinart convection toaster oven in studio.  stainless steel oven"
+    ],
+    [
+        1,
+        "Frigidare stainless steel oven"
+    ],
+    [
+        1,
+        "Frigidare stainless steel gas stove"
+    ],
+    [
+        1,
+        "Frigidaire stove"
+    ],
+    [
+        1,
+        "Frigidaire stainless steel stove"
+    ],
+    [
+        1,
+        "Frigidaire oven"
+    ],
+    [
+        1,
+        "Frigidaire Gallery stainless steel oven"
+    ],
+    [
+        1,
+        "Frigidaire  stainless steel oven"
+    ],
+    [
+        1,
+        "Frigidaire  stainless steel gas stove"
+    ],
+    [
+        1,
+        "Frigidaire  stainless steel electric stove"
+    ],
+    [
+        1,
+        "Frigidaire   stainless steel oven"
+    ],
+    [
+        1,
+        "Frig oven"
+    ],
+    [
+        1,
+        "Fridgeaire refrigerator"
+    ],
+    [
+        1,
+        "Fridge refrigerator"
+    ],
+    [
+        1,
+        "French drawer Stainless refrigerator"
+    ],
+    [
+        1,
+        "French Milled soaps"
+    ],
+    [
+        1,
+        "Free parking on premises \\u2013 3 spaces"
+    ],
+    [
+        1,
+        "Free parking on premises \\u2013 20 spaces"
+    ],
+    [
+        1,
+        "Free parking on premises \\u2013 100 spaces"
+    ],
+    [
+        1,
+        "Free driveway parking on premises \\u2013 30 spaces"
+    ],
+    [
+        1,
+        "Flash Express Broiler"
+    ],
+    [
+        1,
+        "Fisher and Paykel refrigerator"
+    ],
+    [
+        1,
+        "Finesse conditioner"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 98 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 97 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 93 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 89 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 869 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 833 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 83 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 82 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 81 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 802 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 80 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 77 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 76 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 753 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 74 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 727 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 725 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 70 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 69 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 688 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 681 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 673 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 66 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 654 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 636 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 627 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 616 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 609 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 60 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 598 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 580 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 575 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 57 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 565 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 555 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 521 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 507 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 506 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 504 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 500 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 50 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 498 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 497 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 495 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 492 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 489 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 471 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 467 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 463 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 459 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 457 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 452 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 451 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 449 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 447 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 442 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 440 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 435 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 431 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 430 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 426 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 423 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 418 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 412 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 410 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 406 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 402 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 398 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 395 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 392 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 385 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 384 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 383 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 380 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 379 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 377 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 376 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 374 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 371 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 365 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 362 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 361 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 356 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 354 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 349 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 341 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 332 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 327 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 320 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 316 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 315 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 314 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 312 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 310 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 308 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 307 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 306 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 304 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 300 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 297 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 296 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 293 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 291 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 279 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 276 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 270 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 267 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 266 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 255 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 254 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 253 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 250 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 249 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 245 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 232 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 230 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 228 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 226 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 224 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 218 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 214 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 208 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 196 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 188 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 181 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 177 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 176 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 173 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 172 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 165 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 156 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 155 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 150 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 147 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 141 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 140 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 135 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 129 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 127 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 124 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 122 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 120 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 119 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 109 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 105 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 104 Mbps"
+    ],
+    [
+        1,
+        "Fast wifi \\u2013 101 Mbps"
+    ],
+    [
+        1,
+        "F. Bertazzoni Italia stainless steel oven"
+    ],
+    [
+        1,
+        "F. Bertazzoni Italia stainless steel gas stove"
+    ],
+    [
+        1,
+        "Everyone for every body - EO Products shampoo"
+    ],
+    [
+        1,
+        "Everyone for every body - EO Products conditioner"
+    ],
+    [
+        1,
+        "Everyone for every body - EO Products body soap"
+    ],
+    [
+        1,
+        "Everyone for Everybody Soap shampoo"
+    ],
+    [
+        1,
+        "Everyone for Everybody Soap body soap"
+    ],
+    [
+        1,
+        "Everyone conditioner"
+    ],
+    [
+        1,
+        "Everyone Soap body soap"
+    ],
+    [
+        1,
+        "Everyone 3in1 Soap - lavender + aloe body soap"
+    ],
+    [
+        1,
+        "Everyone  body soap"
+    ],
+    [
+        1,
+        "Everyday shampoo"
+    ],
+    [
+        1,
+        "Everyday body soap"
+    ],
+    [
+        1,
+        "Everybody soap body soap"
+    ],
+    [
+        1,
+        "Everybody Shampoo shampoo"
+    ],
+    [
+        1,
+        "Euceren body soap"
+    ],
+    [
+        1,
+        "Electric range top and oven oven"
+    ],
+    [
+        1,
+        "Electric oven"
+    ],
+    [
+        1,
+        "Electric hot pad for one skillet or pot stove"
+    ],
+    [
+        1,
+        "Electric cooktop oven"
+    ],
+    [
+        1,
+        "Edifier sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Edifier Bluetooth sound system"
+    ],
+    [
+        1,
+        "Eco-friendly"
+    ],
+    [
+        1,
+        "Eco friendly shampoo"
+    ],
+    [
+        1,
+        "Eco friendly conditioner"
+    ],
+    [
+        1,
+        "Eco friendly  body soap"
+    ],
+    [
+        1,
+        "Eco conditioner"
+    ],
+    [
+        1,
+        "Eco by Green body soap"
+    ],
+    [
+        1,
+        "Echo Dots throughout the Home sound system with aux"
+    ],
+    [
+        1,
+        "Echo Dots and Echo Show sound system with aux"
+    ],
+    [
+        1,
+        "EO conditioner"
+    ],
+    [
+        1,
+        "EO body soap"
+    ],
+    [
+        1,
+        "ECO Amenities body soap"
+    ],
+    [
+        1,
+        "Dual door refrigerator with bottom freezer refrigerator"
+    ],
+    [
+        1,
+        "Dr.Bronner\\u2019s shampoo"
+    ],
+    [
+        1,
+        "Dr.Bronner\\u2019s body soap"
+    ],
+    [
+        1,
+        "Dr. Bronners Baby/Unscented  body soap"
+    ],
+    [
+        1,
+        "Dr. Bronner\\u2019s body soap"
+    ],
+    [
+        1,
+        "Dr. Bronner's Castille Soap shampoo"
+    ],
+    [
+        1,
+        "Dr. Bronner's Castille Soap body soap"
+    ],
+    [
+        1,
+        "Dr. Broners body soap"
+    ],
+    [
+        1,
+        "Dr teals body soap"
+    ],
+    [
+        1,
+        "Dr bronner\\u2019s body soap"
+    ],
+    [
+        1,
+        "Dr Teal\\u2019s Body Wash with Pure Eason Salt body soap"
+    ],
+    [
+        1,
+        "Dr Bronner's  body soap"
+    ],
+    [
+        1,
+        "Dovr body soap"
+    ],
+    [
+        1,
+        "Dove- Natural Care shampoo"
+    ],
+    [
+        1,
+        "Dove- Natural Care conditioner"
+    ],
+    [
+        1,
+        "Dove unscented body soap"
+    ],
+    [
+        1,
+        "Dove soap bar body soap"
+    ],
+    [
+        1,
+        "Dove soap & hand soap body soap"
+    ],
+    [
+        1,
+        "Dove shower soap pump body soap"
+    ],
+    [
+        1,
+        "Dove or similar body soap"
+    ],
+    [
+        1,
+        "Dove or a comparable brand body soap"
+    ],
+    [
+        1,
+        "Dove liquid body soap"
+    ],
+    [
+        1,
+        "Dove for sensitive skin unscented body soap"
+    ],
+    [
+        1,
+        "Dove body wash; Nivea mens body wash body soap"
+    ],
+    [
+        1,
+        "Dove body wash  body soap"
+    ],
+    [
+        1,
+        "Dove bar and Dove Body Wash body soap"
+    ],
+    [
+        1,
+        "Dove and Pantene shampoo"
+    ],
+    [
+        1,
+        "Dove Sensitive Body Wash body soap"
+    ],
+    [
+        1,
+        "Dove Products shampoo"
+    ],
+    [
+        1,
+        "Dove Products conditioner"
+    ],
+    [
+        1,
+        "Dove Moisturizing Body Wash  body soap"
+    ],
+    [
+        1,
+        "Dove Brand Soaps & Specialty Bar Soaps body soap"
+    ],
+    [
+        1,
+        "Dove Body Wash body soap"
+    ],
+    [
+        1,
+        "Dove & Pantene conditioner"
+    ],
+    [
+        1,
+        "Double ovens - KitchenAid stainless steel oven"
+    ],
+    [
+        1,
+        "Double door Samsung with freezer in main house; Full Frigidaire in studio.  refrigerator"
+    ],
+    [
+        1,
+        "Double Oven oven"
+    ],
+    [
+        1,
+        "Dorm size fridge refrigerator"
+    ],
+    [
+        1,
+        "Different ones conditioner"
+    ],
+    [
+        1,
+        "Different ones body soap"
+    ],
+    [
+        1,
+        "Different Brands conditioner"
+    ],
+    [
+        1,
+        "Different Brands body soap"
+    ],
+    [
+        1,
+        "Different Brands  conditioner"
+    ],
+    [
+        1,
+        "Dial Body Wash in every shower body soap"
+    ],
+    [
+        1,
+        "Desktop speaker sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Dermotology body soap"
+    ],
+    [
+        1,
+        "Denon sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Denon in Media Room sound system"
+    ],
+    [
+        1,
+        "Denon Bluetooth sound system"
+    ],
+    [
+        1,
+        "Denon  Bluetooth sound system"
+    ],
+    [
+        1,
+        "Denon"
+    ],
+    [
+        1,
+        "Dennon receiver sound system"
+    ],
+    [
+        1,
+        "Delonghi toaster oven with air fry stainless steel oven"
+    ],
+    [
+        1,
+        "Definitive Technology Bluetooth sound system"
+    ],
+    [
+        1,
+        "Dedicated workspace: office chair and monitor"
+    ],
+    [
+        1,
+        "DOVE shampoo"
+    ],
+    [
+        1,
+        "DOVE conditioner"
+    ],
+    [
+        1,
+        "Custom Homemade Shampoo Bar shampoo"
+    ],
+    [
+        1,
+        "Curls conditioner"
+    ],
+    [
+        1,
+        "Cuisinart refrigerator"
+    ],
+    [
+        1,
+        "Crosley bluetooth speaker via the record player Bluetooth sound system"
+    ],
+    [
+        1,
+        "Convection/Microwave and warming tray. oven"
+    ],
+    [
+        1,
+        "Convection countertop oven that bakes"
+    ],
+    [
+        1,
+        "Conditioner for all hair types conditioner"
+    ],
+    [
+        1,
+        "Conditioner conditioner"
+    ],
+    [
+        1,
+        "Common Ground Natural shampoo"
+    ],
+    [
+        1,
+        "Common Ground Natural conditioner"
+    ],
+    [
+        1,
+        "Commercial cooker stainless steel gas stove"
+    ],
+    [
+        1,
+        "Commercial body soap"
+    ],
+    [
+        1,
+        "Coast and body wash  body soap"
+    ],
+    [
+        1,
+        "Clothing storage: walk-in closet and wardrobe"
+    ],
+    [
+        1,
+        "Children\\u2019s books and toys for ages 10+ years old"
+    ],
+    [
+        1,
+        "Chi - Tea Tree Oil shampoo"
+    ],
+    [
+        1,
+        "Chi - Tea Tree Oil conditioner"
+    ],
+    [
+        1,
+        "Chemical Free shampoo"
+    ],
+    [
+        1,
+        "Chemical Free body soap"
+    ],
+    [
+        1,
+        "Chamber vintage  refrigerator"
+    ],
+    [
+        1,
+        "Cerave body soap"
+    ],
+    [
+        1,
+        "Caress conditioner"
+    ],
+    [
+        1,
+        "Capital Culinarian Series (4 Burners and Griddle) stainless steel gas stove"
+    ],
+    [
+        1,
+        "Cafe refrigerator"
+    ],
+    [
+        1,
+        "By humankind body soap"
+    ],
+    [
+        1,
+        "Built-In Oven stainless steel oven"
+    ],
+    [
+        1,
+        "Buff City Soap body soap"
+    ],
+    [
+        1,
+        "Briogeo shampoo"
+    ],
+    [
+        1,
+        "Briogeo conditioner"
+    ],
+    [
+        1,
+        "Breakfast table"
+    ],
+    [
+        1,
+        "Brand new Whirlpool stainless steel oven"
+    ],
+    [
+        1,
+        "Brand new Whirlpool stainless steel electric stove"
+    ],
+    [
+        1,
+        "Brand new Whirlpool refrigerator"
+    ],
+    [
+        1,
+        "Brand New Full size oven and stove stainless steel oven"
+    ],
+    [
+        1,
+        "Bowers & Wilkins"
+    ],
+    [
+        1,
+        "Bose upstairs"
+    ],
+    [
+        1,
+        "Bose tv sleaker sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Bose speaker downstairs sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Bose sound system"
+    ],
+    [
+        1,
+        "Bose sound bar Bluetooth sound system"
+    ],
+    [
+        1,
+        "Bose outdoor speakers"
+    ],
+    [
+        1,
+        "Bose bluetooth speaker sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Bose Bluetooth  sound system"
+    ],
+    [
+        1,
+        "Bosch stainless steel electric stove"
+    ],
+    [
+        1,
+        "Bosch induction stove"
+    ],
+    [
+        1,
+        "Bosch electric stove"
+    ],
+    [
+        1,
+        "Bosch convection/microwave oven"
+    ],
+    [
+        1,
+        "Bosch - Gas stainless steel oven"
+    ],
+    [
+        1,
+        "Body Wash is provided for bath/shower body soap"
+    ],
+    [
+        1,
+        "Body Wash body soap"
+    ],
+    [
+        1,
+        "Body High body soap"
+    ],
+    [
+        1,
+        "Bluetooth wireless speaker Bluetooth sound system"
+    ],
+    [
+        1,
+        "Bluetooth stereo w/ built in speakers Bluetooth sound system"
+    ],
+    [
+        1,
+        "Bluetooth speakers in kitchen & master Bluetooth sound system"
+    ],
+    [
+        1,
+        "BlueStar stainless steel gas stove"
+    ],
+    [
+        1,
+        "BlueStar oven"
+    ],
+    [
+        1,
+        "Biotin conditioner"
+    ],
+    [
+        1,
+        "Biotin  shampoo"
+    ],
+    [
+        1,
+        "Biolage conditioner"
+    ],
+    [
+        1,
+        "Bestisan sound bar  Bluetooth sound system"
+    ],
+    [
+        1,
+        "Bertazzoni stainless steel gas stove"
+    ],
+    [
+        1,
+        "Bertazzoni refrigerator"
+    ],
+    [
+        1,
+        "Bertazzoni oven"
+    ],
+    [
+        1,
+        "Bertazzoni gas stove"
+    ],
+    [
+        1,
+        "Bertazzoni electric stove"
+    ],
+    [
+        1,
+        "Bertazzoni  stainless steel oven"
+    ],
+    [
+        1,
+        "Bertazonni stainless steel gas stove"
+    ],
+    [
+        1,
+        "Bergman Kelly shampoo"
+    ],
+    [
+        1,
+        "Bergman Kelly conditioner"
+    ],
+    [
+        1,
+        "Bergman Kelly body soap"
+    ],
+    [
+        1,
+        "Bed head  shampoo"
+    ],
+    [
+        1,
+        "Bed head  conditioner"
+    ],
+    [
+        1,
+        "Beach volleyball"
+    ],
+    [
+        1,
+        "Beach"
+    ],
+    [
+        1,
+        "Bath gel in shower. Some small soaps also available.  body soap"
+    ],
+    [
+        1,
+        "Bath and Body Works; Dove body soap"
+    ],
+    [
+        1,
+        "Basics conditioner"
+    ],
+    [
+        1,
+        "Basics body soap"
+    ],
+    [
+        1,
+        "Basic speakers  Bluetooth sound system"
+    ],
+    [
+        1,
+        "Bar soap body soap"
+    ],
+    [
+        1,
+        "Bar soap and body wash body soap"
+    ],
+    [
+        1,
+        "Bar body soap"
+    ],
+    [
+        1,
+        "Bang & Olufsen Bluetooth sound system"
+    ],
+    [
+        1,
+        "BOSE soundbar Bluetooth sound system"
+    ],
+    [
+        1,
+        "BOSE SoundLink Revolve Bluetooth speaker connects to \\u201cAlexa\\u201d  . If you put it near a wall"
+    ],
+    [
+        1,
+        "BB shampoo"
+    ],
+    [
+        1,
+        "BB conditioner"
+    ],
+    [
+        1,
+        "BB body soap"
+    ],
+    [
+        1,
+        "Aveda  shampoo"
+    ],
+    [
+        1,
+        "Aveda  body soap"
+    ],
+    [
+        1,
+        "Avanti stove"
+    ],
+    [
+        1,
+        "Avanti stainless steel oven"
+    ],
+    [
+        1,
+        "Aussie shampoo"
+    ],
+    [
+        1,
+        "Aussie conditioner"
+    ],
+    [
+        1,
+        "Aussie Miracle Moist Conditioner conditioner"
+    ],
+    [
+        1,
+        "Aussie Miracle Mist shampoo"
+    ],
+    [
+        1,
+        "Audioengine and Tekton Speakers sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Assorted liquid and bars body soap"
+    ],
+    [
+        1,
+        "Assorted conditioner"
+    ],
+    [
+        1,
+        "Assorted body soap"
+    ],
+    [
+        1,
+        "Apple pod Bluetooth sound system"
+    ],
+    [
+        1,
+        "Apple Bluetooth sound system"
+    ],
+    [
+        1,
+        "Andalou Organic shampoo"
+    ],
+    [
+        1,
+        "Andalou Organic conditioner"
+    ],
+    [
+        1,
+        "Amazon Essentials body soap"
+    ],
+    [
+        1,
+        "Amazon Echo w/ Alexa sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Amazon Echo sound system"
+    ],
+    [
+        1,
+        "Amazon Alexa for each area Bluetooth sound system"
+    ],
+    [
+        1,
+        "Amazon Alexa Bluetooth sound system"
+    ],
+    [
+        1,
+        "Amazon  body soap"
+    ],
+    [
+        1,
+        "Amana electric stove"
+    ],
+    [
+        1,
+        "Amana  oven"
+    ],
+    [
+        1,
+        "All natural products conditioner"
+    ],
+    [
+        1,
+        "All natural products body soap"
+    ],
+    [
+        1,
+        "All Natural conditioner"
+    ],
+    [
+        1,
+        "All Natural  shampoo"
+    ],
+    [
+        1,
+        "Alfresco shower"
+    ],
+    [
+        1,
+        "Alexa sound system with Bluetooth and aux"
+    ],
+    [
+        1,
+        "Alexa Smart Speakers Bluetooth sound system"
+    ],
+    [
+        1,
+        "Alexa - Amazon Echo  Bluetooth sound system"
+    ],
+    [
+        1,
+        "Alexa  sound system"
+    ],
+    [
+        1,
+        "Alexa  Bluetooth sound system"
+    ],
+    [
+        1,
+        "Air Fryer"
+    ],
+    [
+        1,
+        "Air Fry Toaster Oven! stainless steel oven"
+    ],
+    [
+        1,
+        "Aesop shampoo"
+    ],
+    [
+        1,
+        "Acure conditioner"
+    ],
+    [
+        1,
+        "Act + Acre shampoo"
+    ],
+    [
+        1,
+        "Act + Acre conditioner"
+    ],
+    [
+        1,
+        "A range of natural soaps body soap"
+    ],
+    [
+        1,
+        "A bunch of them! shampoo"
+    ],
+    [
+        1,
+        "A bunch of them! conditioner"
+    ],
+    [
+        1,
+        "?? stove"
+    ],
+    [
+        1,
+        "?? refrigerator"
+    ],
+    [
+        1,
+        "?? Bluetooth sound system"
+    ],
+    [
+        1,
+        "90\\ HDTV"
+    ],
+    [
+        1,
+        "86\\ HDTV with Apple TV"
+    ],
+    [
+        1,
+        "86\\ HDTV with Amazon Prime Video"
+    ],
+    [
+        1,
+        "85\\ HDTV with Amazon Prime Video"
+    ],
+    [
+        1,
+        "83\\ HDTV with standard cable"
+    ],
+    [
+        1,
+        "82\\ HDTV with Netflix"
+    ],
+    [
+        1,
+        "82\\ HDTV"
+    ],
+    [
+        1,
+        "80\\ HDTV with Apple TV"
+    ],
+    [
+        1,
+        "77\\ HDTV with Apple TV"
+    ],
+    [
+        1,
+        "75\\ TV"
+    ],
+    [
+        1,
+        "75\\ HDTV with standard cable"
+    ],
+    [
+        1,
+        "75\\ HDTV with HBO Max"
+    ],
+    [
+        1,
+        "72\\ HDTV"
+    ],
+    [
+        1,
+        "70\\ TV with HBO Max"
+    ],
+    [
+        1,
+        "70\\ HDTV with premium cable"
+    ],
+    [
+        1,
+        "70\\ HDTV with"
+    ],
+    [
+        1,
+        "64\\ HDTV"
+    ],
+    [
+        1,
+        "61\\ HDTV with premium cable"
+    ],
+    [
+        1,
+        "60\\ TV with standard cable"
+    ],
+    [
+        1,
+        "60\\ TV with HBO Max"
+    ],
+    [
+        1,
+        "60\\ TV with Amazon Prime Video"
+    ],
+    [
+        1,
+        "60\\ HDTV with Apple TV"
+    ],
+    [
+        1,
+        "60\\ HDTV"
+    ],
+    [
+        1,
+        "58\\ HDTV with Roku"
+    ],
+    [
+        1,
+        "58\\ HDTV with Netflix"
+    ],
+    [
+        1,
+        "56\\ HDTV with Netflix"
+    ],
+    [
+        1,
+        "56\\ HDTV with Amazon Prime Video"
+    ],
+    [
+        1,
+        "55\\ TV with Amazon Prime Video"
+    ],
+    [
+        1,
+        "54\\ HDTV with Apple TV"
+    ],
+    [
+        1,
+        "54\\ HDTV"
+    ],
+    [
+        1,
+        "52\\ HDTV with Roku"
+    ],
+    [
+        1,
+        "52\\ HDTV with Netflix"
+    ],
+    [
+        1,
+        "51\\ HDTV"
+    ],
+    [
+        1,
+        "50\\ TV with Roku"
+    ],
+    [
+        1,
+        "50\\ TV with Netflix"
+    ],
+    [
+        1,
+        "50\\ TV"
+    ],
+    [
+        1,
+        "50\\ HDTV with Apple TV"
+    ],
+    [
+        1,
+        "48\\ TV with Netflix"
+    ],
+    [
+        1,
+        "48\\ HDTV with Roku"
+    ],
+    [
+        1,
+        "48\\ HDTV with Amazon Prime Video"
+    ],
+    [
+        1,
+        "47\\ HDTV with HBO Max"
+    ],
+    [
+        1,
+        "47\\ HDTV"
+    ],
+    [
+        1,
+        "46\\ TV"
+    ],
+    [
+        1,
+        "46\\ HDTV with Roku"
+    ],
+    [
+        1,
+        "46\\ HDTV with Amazon Prime Video"
+    ],
+    [
+        1,
+        "46\\ HDTV"
+    ],
+    [
+        1,
+        "45\\ TV with Roku"
+    ],
+    [
+        1,
+        "45\\ HDTV with Amazon Prime Video"
+    ],
+    [
+        1,
+        "44\\ HDTV with Netflix"
+    ],
+    [
+        1,
+        "44\\ HDTV with Chromecast"
+    ],
+    [
+        1,
+        "44\\ HDTV with Amazon Prime Video"
+    ],
+    [
+        1,
+        "43\\ TV with Roku"
+    ],
+    [
+        1,
+        "43\\ HDTV with HBO Max"
+    ],
+    [
+        1,
+        "42\\ TV with Chromecast"
+    ],
+    [
+        1,
+        "42\\ TV with Amazon Prime Video"
+    ],
+    [
+        1,
+        "42\\ TV"
+    ],
+    [
+        1,
+        "42\\ HDTV with"
+    ],
+    [
+        1,
+        "40\\ TV with Chromecast"
+    ],
+    [
+        1,
+        "40\\ TV with"
+    ],
+    [
+        1,
+        "40\\ HDTV with Apple TV"
+    ],
+    [
+        1,
+        "40\\ HDTV with"
+    ],
+    [
+        1,
+        "4.6 cubic foot stainless steel refrigerator/freezer refrigerator"
+    ],
+    [
+        1,
+        "39\\ HDTV with premium cable"
+    ],
+    [
+        1,
+        "37\\ TV with Netflix"
+    ],
+    [
+        1,
+        "37\\ HDTV with Roku"
+    ],
+    [
+        1,
+        "37\\ HDTV with Netflix"
+    ],
+    [
+        1,
+        "37\\ HDTV with Apple TV"
+    ],
+    [
+        1,
+        "37\\ HDTV with Amazon Prime Video"
+    ],
+    [
+        1,
+        "36\\ HDTV with Amazon Prime Video"
+    ],
+    [
+        1,
+        "365 conditioner"
+    ],
+    [
+        1,
+        "365 body soap"
+    ],
+    [
+        1,
+        "360 conditioner"
+    ],
+    [
+        1,
+        "35\\ HDTV with Amazon Prime Video"
+    ],
+    [
+        1,
+        "34\\ HDTV with Apple TV"
+    ],
+    [
+        1,
+        "32\\ TV with standard cable"
+    ],
+    [
+        1,
+        "32\\ TV with Amazon Prime Video"
+    ],
+    [
+        1,
+        "32\\ TV with"
+    ],
+    [
+        1,
+        "32\\ TV"
+    ],
+    [
+        1,
+        "32\\ HDTV with premium cable"
+    ],
+    [
+        1,
+        "32\\ HDTV with Chromecast"
+    ],
+    [
+        1,
+        "30\\ HDTV with Netflix"
+    ],
+    [
+        1,
+        "27\\ TV with Chromecast"
+    ],
+    [
+        1,
+        "24\\ HDTV"
+    ],
+    [
+        1,
+        "21 cu ft with ice maker-LG-new refrigerator"
+    ],
+    [
+        1,
+        "2 ovens oven"
+    ],
+    [
+        1,
+        "2 full size refrigerators refrigerator"
+    ],
+    [
+        1,
+        "2 burner gas stove top  stainless steel gas stove"
+    ],
+    [
+        1,
+        "2 burner electric stove"
+    ],
+    [
+        1,
+        "2 Refrigerators (1 in kitchen"
+    ],
+    [
+        1,
+        "165\\ HDTV"
+    ],
+    [
+        1,
+        "15\\ TV"
+    ],
+    [
+        1,
+        "12\\ TV with Roku"
+    ],
+    [
+        1,
+        "108\\ HDTV with Chromecast"
+    ],
+    [
+        1,
+        "100\\ HDTV with Chromecast"
+    ],
+    [
+        1,
+        "100\\ HDTV"
+    ],
+    [
+        1,
+        "1 in laundry room) refrigerator"
+    ],
+    [
+        1,
+        "1 bar of soap provided body soap"
+    ],
+    [
+        1,
+        "& purifying bathing experience for even the most sensitive skin. Made in Austin"
+    ],
+    [
+        1,
+        "& minerals. Cruelty-free"
+    ],
+    [
+        1,
+        "& Pantene  conditioner"
+    ]
+]

@@ -1,0 +1,153 @@
+id                                                  0
+host_since                                          3
+host_response_time                               3449
+host_response_rate                               3449
+host_acceptance_rate                             2862
+host_is_superhost                                   3
+host_listings_count                                 3
+host_total_listings_count                           3
+host_has_profile_pic                                3
+host_identity_verified                              3
+neighbourhood                                    4913
+neighbourhood_cleansed                              0
+neighbourhood_group_cleansed                    11972
+latitude                                            0
+longitude                                           0
+property_type                                       0
+room_type                                           0
+accommodates                                        0
+bathrooms                                       11972
+bathrooms_text                                     16
+bedrooms                                          711
+beds                                              150
+amenities                                           0
+price                                               0
+minimum_nights                                      0
+maximum_nights                                      0
+minimum_minimum_nights                              1
+maximum_minimum_nights                              1
+minimum_maximum_nights                              1
+maximum_maximum_nights                              1
+minimum_nights_avg_ntm                              1
+maximum_nights_avg_ntm                              1
+calendar_updated                                11972
+has_availability                                    0
+availability_30                                     0
+availability_60                                     0
+availability_90                                     0
+availability_365                                    0
+calendar_last_scraped                               0
+number_of_reviews                                   0
+number_of_reviews_ltm                               0
+number_of_reviews_l30d                              0
+first_review                                     2946
+last_review                                      2946
+review_scores_rating                             2946
+review_scores_accuracy                           3018
+review_scores_cleanliness                        3018
+review_scores_checkin                            3019
+review_scores_communication                      3018
+review_scores_location                           3020
+review_scores_value                              3020
+license                                         11972
+instant_bookable                                    0
+calculated_host_listings_count                      0
+calculated_host_listings_count_entire_homes         0
+calculated_host_listings_count_private_rooms        0
+calculated_host_listings_count_shared_rooms         0
+reviews_per_month                                2946
+dtype: int64
+
+
+Revised Cols
+
+
+Property Types:
+Entire residential home                2938
+Entire rental unit                     2160
+Entire home                             916
+Entire condominium (condo)              820
+Private room in residential home        665
+Private room in home                    596
+Entire serviced apartment               457
+Entire guesthouse                       431
+Private room in rental unit             328
+Entire townhouse                        302
+Entire bungalow                         217
+Entire condo                            212
+Entire guest suite                      204
+Entire loft                             102
+Private room in townhouse                95
+Camper/RV                                82
+Entire cottage                           68
+Shared room in rental unit               63
+Tiny house                               51
+Private room in condo                    50
+Entire villa                             46
+Private room in condominium (condo)      42
+Entire cabin                             34
+Private room in guest suite              31
+Private room in resort                   25
+Room in boutique hotel                   23
+Entire place                             21
+Private room in bed and breakfast        21
+Room in hotel                            19
+Shared room in residential home          19
+Private room in guesthouse               19
+Private room in bungalow                 17
+Entire vacation home                     15
+Shared room in home                      13
+Room in aparthotel                       12
+Tent                                      9
+Boat                                      8
+Farm stay                                 8
+Campsite                                  6
+Private room                              6
+Treehouse                                 6
+Private room in serviced apartment        6
+Shared room in cabin                      5
+Tiny home                                 5
+Houseboat                                 4
+Private room in tiny house                4
+Private room in casa particular           4
+Private room in cottage                   4
+Barn                                      3
+Private room in camper/rv                 3
+Yurt                                      3
+Private room in tent                      3
+Shared room in condo                      3
+Shared room in condominium (condo)        3
+Private room in loft                      3
+Room in resort                            2
+Shared room in hostel                     2
+Private room in earth house               2
+Private room in villa                     2
+Entire home/apt                           2
+Shared room in loft                       2
+Dome house                                2
+Shared room in townhouse                  2
+Private room in cabin                     2
+Shared room                               2
+Bus                                       2
+Shared room in camper/rv                  1
+Tipi                                      1
+Earth house                               1
+Entire chalet                             1
+Private room in floor                     1
+Room in bed and breakfast                 1
+Shared room in guest suite                1
+Room in serviced apartment                1
+Shared room in serviced apartment         1
+Shipping container                        1
+Casa particular                           1
+Religious building                        1
+Name: property_type, dtype: int64
+
+
+
+Prop Types
+
+Entire guesthouse                    431
+Entire guest suite                   204
+Camper/RV                             82
+Tiny house                            51

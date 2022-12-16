@@ -1,0 +1,85 @@
+['id', 'listing_url', 'scrape_id', 'last_scraped', 'source', 'name',
+       'description', 'neighborhood_overview', 'picture_url', 'host_id',
+       'host_url', 'host_name', 'host_since', 'host_location', 'host_about',
+       'host_response_time', 'host_response_rate', 'host_acceptance_rate',
+       'host_is_superhost', 'host_thumbnail_url', 'host_picture_url',
+       'host_neighbourhood', 'host_listings_count',
+       'host_total_listings_count', 'host_verifications',
+       'host_has_profile_pic', 'host_identity_verified', 'neighbourhood',
+       'neighbourhood_cleansed', 'neighbourhood_group_cleansed', 'latitude',
+       'longitude', 'property_type', 'room_type', 'accommodates', 'bathrooms',
+       'bathrooms_text', 'bedrooms', 'beds', 'amenities', 'price',
+       'minimum_nights', 'maximum_nights', 'minimum_minimum_nights',
+       'maximum_minimum_nights', 'minimum_maximum_nights',
+       'maximum_maximum_nights', 'minimum_nights_avg_ntm',
+       'maximum_nights_avg_ntm', 'calendar_updated', 'has_availability',
+       'availability_30', 'availability_60', 'availability_90',
+       'availability_365', 'calendar_last_scraped', 'number_of_reviews',
+       'number_of_reviews_ltm', 'number_of_reviews_l30d', 'first_review',
+       'last_review', 'review_scores_rating', 'review_scores_accuracy',
+       'review_scores_cleanliness', 'review_scores_checkin',
+       'review_scores_communication', 'review_scores_location',
+       'review_scores_value', 'license', 'instant_bookable',
+       'calculated_host_listings_count',
+       'calculated_host_listings_count_entire_homes',
+       'calculated_host_listings_count_private_rooms',
+       'calculated_host_listings_count_shared_rooms', 'reviews_per_month']
+
+
+
+Missing data:
+id                                                 0
+host_since                                       119
+host_about                                      7111
+host_response_time                              4001
+host_response_rate                              4001
+host_acceptance_rate                            3143
+host_is_superhost                                  4
+host_listings_count                              119
+host_total_listings_count                        119
+host_has_profile_pic                             119
+host_identity_verified                           119
+neighbourhood                                   7396
+neighbourhood_cleansed                             0
+latitude                                           0
+longitude                                          0
+property_type                                      0
+room_type                                          0
+accommodates                                       0
+bathrooms_text                                    19
+bedrooms                                        1113
+beds                                             189
+price                                              0
+minimum_nights                                     0
+maximum_nights                                     0
+minimum_minimum_nights                             1
+maximum_minimum_nights                             1
+minimum_maximum_nights                             1
+maximum_maximum_nights                             1
+minimum_nights_avg_ntm                             1
+maximum_nights_avg_ntm                             1
+has_availability                                   0
+availability_30                                    0
+availability_60                                    0
+availability_90                                    0
+availability_365                                   0
+calendar_last_scraped                              0
+number_of_reviews                                  0
+number_of_reviews_ltm                              0
+number_of_reviews_l30d                             0
+first_review                                    3403
+last_review                                     3403
+review_scores_rating                            3403
+review_scores_accuracy                          3470
+review_scores_cleanliness                       3470
+review_scores_checkin                           3471
+review_scores_communication                     3471
+review_scores_location                          3472
+review_scores_value                             3472
+instant_bookable                                   0
+calculated_host_listings_count                     0
+calculated_host_listings_count_entire_homes        0
+calculated_host_listings_count_private_rooms       0
+calculated_host_listings_count_shared_rooms        0
+reviews_per_month                               3403
+dtype: int64
